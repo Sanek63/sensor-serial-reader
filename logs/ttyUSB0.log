@@ -1,0 +1,1893 @@
+2021-07-30 16:12:56,252 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\xe7\x00\xfe\xbe\x1eU\x02'
+2021-07-30 16:12:56,253 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\xe7\x00\xfe\xbe\x1e'
+2021-07-30 16:12:56,253 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753127, ADC_B: 16694814
+2021-07-30 16:12:57,254 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\xb3\x00\xfe\xbe\x8fU\x02'
+2021-07-30 16:12:57,254 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\xb3\x00\xfe\xbe\x8f'
+2021-07-30 16:12:57,255 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753075, ADC_B: 16694927
+2021-07-30 16:12:58,256 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1(\x00\xfe\xbe%U\x02'
+2021-07-30 16:12:58,256 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1(\x00\xfe\xbe%'
+2021-07-30 16:12:58,256 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752936, ADC_B: 16694821
+2021-07-30 16:12:59,256 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x8b\x00\xfe\xbeKU\x02'
+2021-07-30 16:12:59,257 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x8b\x00\xfe\xbeK'
+2021-07-30 16:12:59,257 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753035, ADC_B: 16694859
+2021-07-30 16:13:00,260 - /dev/ttyUSB0 - INFO - Received b''
+2021-07-30 16:13:01,262 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x1a\x00\xfe\xbe\xc2U\x02'
+2021-07-30 16:13:01,262 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x1a\x00\xfe\xbe\xc2'
+2021-07-30 16:13:01,263 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752922, ADC_B: 16694978
+2021-07-30 16:13:02,263 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1?\x00\xfe\xbe7U\x02'
+2021-07-30 16:13:02,263 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1?\x00\xfe\xbe7'
+2021-07-30 16:13:02,264 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752959, ADC_B: 16694839
+2021-07-30 16:13:03,265 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xe5\x00\xfe\xbd\xe9U\x02'
+2021-07-30 16:13:03,265 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xe5\x00\xfe\xbd\xe9'
+2021-07-30 16:13:03,266 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752869, ADC_B: 16694761
+2021-07-30 16:13:04,267 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x17\x00\xfe\xbe\x11U\x02'
+2021-07-30 16:13:04,268 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x17\x00\xfe\xbe\x11'
+2021-07-30 16:13:04,268 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752919, ADC_B: 16694801
+2021-07-30 16:13:05,270 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x01\x00\xfe\xbd\x9dU\x02'
+2021-07-30 16:13:05,270 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x01\x00\xfe\xbd\x9d'
+2021-07-30 16:13:05,270 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752897, ADC_B: 16694685
+2021-07-30 16:13:06,272 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x11\x00\xfe\xbd\xe7U\x02'
+2021-07-30 16:13:06,272 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x11\x00\xfe\xbd\xe7'
+2021-07-30 16:13:06,272 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752913, ADC_B: 16694759
+2021-07-30 16:13:07,273 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa03\x00\xfe\xbd\xb6U\x02'
+2021-07-30 16:13:07,274 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa03\x00\xfe\xbd\xb6'
+2021-07-30 16:13:07,274 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752691, ADC_B: 16694710
+2021-07-30 16:13:08,276 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xde\x00\xfe\xbd\xa6U\x02'
+2021-07-30 16:13:08,276 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xde\x00\xfe\xbd\xa6'
+2021-07-30 16:13:08,276 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752862, ADC_B: 16694694
+2021-07-30 16:13:09,278 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\x9a\x00\xfe\xbe\x1dU\x02'
+2021-07-30 16:13:09,278 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\x9a\x00\xfe\xbe\x1d'
+2021-07-30 16:13:09,278 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752794, ADC_B: 16694813
+2021-07-30 16:13:10,279 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa07\x00\xfe\xbeBU\x02'
+2021-07-30 16:13:10,280 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa07\x00\xfe\xbeB'
+2021-07-30 16:13:10,280 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752695, ADC_B: 16694850
+2021-07-30 16:13:11,281 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0g\x00\xfe\xbd\xceU\x02'
+2021-07-30 16:13:11,281 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0g\x00\xfe\xbd\xce'
+2021-07-30 16:13:11,281 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752743, ADC_B: 16694734
+2021-07-30 16:13:12,283 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0M\x00\xfe\xbd\xcfU\x02'
+2021-07-30 16:13:12,283 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0M\x00\xfe\xbd\xcf'
+2021-07-30 16:13:12,283 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752717, ADC_B: 16694735
+2021-07-30 16:13:13,284 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xa2\x00\xfe\xbd\xf6U\x02'
+2021-07-30 16:13:13,284 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xa2\x00\xfe\xbd\xf6'
+2021-07-30 16:13:13,284 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752802, ADC_B: 16694774
+2021-07-30 16:13:14,285 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x1d\x00\xfe\xbd\xb2U\x02'
+2021-07-30 16:13:14,285 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x1d\x00\xfe\xbd\xb2'
+2021-07-30 16:13:14,285 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752925, ADC_B: 16694706
+2021-07-30 16:13:15,286 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x06\x00\xfe\xbd{U\x02'
+2021-07-30 16:13:15,286 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x06\x00\xfe\xbd{'
+2021-07-30 16:13:15,286 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752902, ADC_B: 16694651
+2021-07-30 16:13:16,286 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1H\x00\xfe\xbd\x88U\x02'
+2021-07-30 16:13:16,286 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1H\x00\xfe\xbd\x88'
+2021-07-30 16:13:16,287 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752968, ADC_B: 16694664
+2021-07-30 16:13:17,287 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x07\x00\xfe\xbd\xd1U\x02'
+2021-07-30 16:13:17,287 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x07\x00\xfe\xbd\xd1'
+2021-07-30 16:13:17,287 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752903, ADC_B: 16694737
+2021-07-30 16:13:18,288 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xfe\x00\xfe\xbe4U\x02'
+2021-07-30 16:13:18,288 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xfe\x00\xfe\xbe4'
+2021-07-30 16:13:18,289 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752894, ADC_B: 16694836
+2021-07-30 16:13:19,289 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1^\x00\xfe\xbe\x1bU\x02'
+2021-07-30 16:13:19,290 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1^\x00\xfe\xbe\x1b'
+2021-07-30 16:13:19,290 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752990, ADC_B: 16694811
+2021-07-30 16:13:20,291 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1L\x00\xfe\xbe\x86U\x02'
+2021-07-30 16:13:20,291 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1L\x00\xfe\xbe\x86'
+2021-07-30 16:13:20,291 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752972, ADC_B: 16694918
+2021-07-30 16:13:21,292 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa12\x00\xfe\xbe7U\x02'
+2021-07-30 16:13:21,293 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa12\x00\xfe\xbe7'
+2021-07-30 16:13:21,293 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752946, ADC_B: 16694839
+2021-07-30 16:13:22,294 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x84\x00\xfe\xbecU\x02'
+2021-07-30 16:13:22,294 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x84\x00\xfe\xbec'
+2021-07-30 16:13:22,294 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753028, ADC_B: 16694883
+2021-07-30 16:13:23,295 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1S\x00\xfe\xbf\x00U\x02'
+2021-07-30 16:13:23,295 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1S\x00\xfe\xbf\x00'
+2021-07-30 16:13:23,296 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752979, ADC_B: 16695040
+2021-07-30 16:13:24,296 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\xe6\x00\xfe\xbe\xa3U\x02'
+2021-07-30 16:13:24,297 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\xe6\x00\xfe\xbe\xa3'
+2021-07-30 16:13:24,297 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753126, ADC_B: 16694947
+2021-07-30 16:13:25,298 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa12\x00\xfe\xbe\\U\x02'
+2021-07-30 16:13:25,299 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa12\x00\xfe\xbe\\'
+2021-07-30 16:13:25,299 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752946, ADC_B: 16694876
+2021-07-30 16:13:26,300 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x00\x00\xfe\xbe\xbbU\x02'
+2021-07-30 16:13:26,301 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x00\x00\xfe\xbe\xbb'
+2021-07-30 16:13:26,301 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752896, ADC_B: 16694971
+2021-07-30 16:13:27,303 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xb0\x00\xfe\xbe\x8e'
+2021-07-30 16:13:28,306 - /dev/ttyUSB0 - INFO - Received b'U\x02'
+2021-07-30 16:13:29,309 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xc9\x00\xfe\xbe\x99U\x02'
+2021-07-30 16:13:29,309 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xc9\x00\xfe\xbe\x99'
+2021-07-30 16:13:29,310 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752841, ADC_B: 16694937
+2021-07-30 16:13:30,311 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xee\x00\xfe\xbd\xe2U\x02'
+2021-07-30 16:13:30,311 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xee\x00\xfe\xbd\xe2'
+2021-07-30 16:13:30,311 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752878, ADC_B: 16694754
+2021-07-30 16:13:31,313 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\x86\x00\xfe\xbe>U\x02'
+2021-07-30 16:13:31,314 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\x86\x00\xfe\xbe>'
+2021-07-30 16:13:31,314 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752774, ADC_B: 16694846
+2021-07-30 16:13:32,316 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0x\x00\xfe\xbd\xfaU\x02'
+2021-07-30 16:13:32,316 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0x\x00\xfe\xbd\xfa'
+2021-07-30 16:13:32,316 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752760, ADC_B: 16694778
+2021-07-30 16:13:33,317 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0L\x00\xfe\xbeaU\x02'
+2021-07-30 16:13:33,318 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0L\x00\xfe\xbea'
+2021-07-30 16:13:33,319 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752716, ADC_B: 16694881
+2021-07-30 16:13:34,322 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xa2\x00\xfe\xbezU\x02'
+2021-07-30 16:13:34,322 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xa2\x00\xfe\xbez'
+2021-07-30 16:13:34,322 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752802, ADC_B: 16694906
+2021-07-30 16:13:35,323 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xa5\x00\xfe\xbdwU\x02'
+2021-07-30 16:13:35,324 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xa5\x00\xfe\xbdw'
+2021-07-30 16:13:35,324 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752805, ADC_B: 16694647
+2021-07-30 16:13:36,325 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\x84\x00\xfe\xbd\x04U\x02'
+2021-07-30 16:13:36,325 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\x84\x00\xfe\xbd\x04'
+2021-07-30 16:13:36,325 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752772, ADC_B: 16694532
+2021-07-30 16:13:37,327 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\x8a\x00\xfe\xbdoU\x02'
+2021-07-30 16:13:37,328 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\x8a\x00\xfe\xbdo'
+2021-07-30 16:13:37,328 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752778, ADC_B: 16694639
+2021-07-30 16:13:38,329 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xf5\x00\xfe\xbd\x90U\x02'
+2021-07-30 16:13:38,330 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xf5\x00\xfe\xbd\x90'
+2021-07-30 16:13:38,330 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752885, ADC_B: 16694672
+2021-07-30 16:13:39,331 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0B\x00\xfe\xbd\x95U\x02'
+2021-07-30 16:13:39,333 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0B\x00\xfe\xbd\x95'
+2021-07-30 16:13:39,334 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752706, ADC_B: 16694677
+2021-07-30 16:13:40,336 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xdb\x00\xfe\xbd\xf3U\x02'
+2021-07-30 16:13:40,338 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xdb\x00\xfe\xbd\xf3'
+2021-07-30 16:13:40,339 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752859, ADC_B: 16694771
+2021-07-30 16:13:41,340 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x0f\x00\xfe\xbd\xa5U\x02'
+2021-07-30 16:13:41,341 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x0f\x00\xfe\xbd\xa5'
+2021-07-30 16:13:41,342 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752911, ADC_B: 16694693
+2021-07-30 16:13:42,345 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x9f\x00\xfe\xbe\x1cU\x02'
+2021-07-30 16:13:42,346 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x9f\x00\xfe\xbe\x1c'
+2021-07-30 16:13:42,346 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753055, ADC_B: 16694812
+2021-07-30 16:13:43,347 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1!\x00\xfe\xbe1U\x02'
+2021-07-30 16:13:43,349 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1!\x00\xfe\xbe1'
+2021-07-30 16:13:43,349 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752929, ADC_B: 16694833
+2021-07-30 16:13:44,351 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1c\x00\xfe\xbd\x97U\x02'
+2021-07-30 16:13:44,353 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1c\x00\xfe\xbd\x97'
+2021-07-30 16:13:44,353 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752995, ADC_B: 16694679
+2021-07-30 16:13:45,355 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1j\x00\xfe\xbe\x8aU\x02'
+2021-07-30 16:13:45,355 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1j\x00\xfe\xbe\x8a'
+2021-07-30 16:13:45,356 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753002, ADC_B: 16694922
+2021-07-30 16:13:46,358 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\xa9\x00\xfe\xbd\xe1U\x02'
+2021-07-30 16:13:46,360 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\xa9\x00\xfe\xbd\xe1'
+2021-07-30 16:13:46,361 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753065, ADC_B: 16694753
+2021-07-30 16:13:47,362 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\xd9\x00\xfe\xbelU\x02'
+2021-07-30 16:13:47,362 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\xd9\x00\xfe\xbel'
+2021-07-30 16:13:47,362 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753113, ADC_B: 16694892
+2021-07-30 16:13:48,363 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1@\x00\xfe\xbe\x1eU\x02'
+2021-07-30 16:13:48,363 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1@\x00\xfe\xbe\x1e'
+2021-07-30 16:13:48,363 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752960, ADC_B: 16694814
+2021-07-30 16:13:49,364 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\xc7\x00\xfe\xbe\x8eU\x02'
+2021-07-30 16:13:49,365 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\xc7\x00\xfe\xbe\x8e'
+2021-07-30 16:13:49,365 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753095, ADC_B: 16694926
+2021-07-30 16:13:50,366 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1`\x00\xfe\xbeaU\x02'
+2021-07-30 16:13:50,367 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1`\x00\xfe\xbea'
+2021-07-30 16:13:50,367 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752992, ADC_B: 16694881
+2021-07-30 16:13:51,369 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x87\x00\xfe\xbe\xc4U\x02'
+2021-07-30 16:13:51,369 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x87\x00\xfe\xbe\xc4'
+2021-07-30 16:13:51,369 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753031, ADC_B: 16694980
+2021-07-30 16:13:52,374 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1+\x00\xfe\xbe\x9cU\x02'
+2021-07-30 16:13:52,374 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1+\x00\xfe\xbe\x9c'
+2021-07-30 16:13:52,375 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752939, ADC_B: 16694940
+2021-07-30 16:13:53,375 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xe0\x00\xfe\xbejU\x02'
+2021-07-30 16:13:53,376 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xe0\x00\xfe\xbej'
+2021-07-30 16:13:53,376 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752864, ADC_B: 16694890
+2021-07-30 16:13:54,376 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1f\x00\xfe\xbeJU\x02'
+2021-07-30 16:13:54,377 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1f\x00\xfe\xbeJ'
+2021-07-30 16:13:54,377 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752998, ADC_B: 16694858
+2021-07-30 16:13:55,378 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1Z\x00\xfe\xbe\x1fU\x02'
+2021-07-30 16:13:55,379 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1Z\x00\xfe\xbe\x1f'
+2021-07-30 16:13:55,379 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752986, ADC_B: 16694815
+2021-07-30 16:13:56,381 - /dev/ttyUSB0 - INFO - Received b''
+2021-07-30 16:13:57,382 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1P\x00\xfe\xbe[U\x02'
+2021-07-30 16:13:57,382 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1P\x00\xfe\xbe['
+2021-07-30 16:13:57,382 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752976, ADC_B: 16694875
+2021-07-30 16:13:58,383 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xa1\x00\xfe\xbeCU\x02'
+2021-07-30 16:13:58,384 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xa1\x00\xfe\xbeC'
+2021-07-30 16:13:58,384 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752801, ADC_B: 16694851
+2021-07-30 16:13:59,385 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xee\x00\xfe\xbe\x1bU\x02'
+2021-07-30 16:13:59,385 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xee\x00\xfe\xbe\x1b'
+2021-07-30 16:13:59,385 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752878, ADC_B: 16694811
+2021-07-30 16:14:00,386 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa19\x00\xfe\xbe!U\x02'
+2021-07-30 16:14:00,386 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa19\x00\xfe\xbe!'
+2021-07-30 16:14:00,386 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752953, ADC_B: 16694817
+2021-07-30 16:14:01,388 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xa7\x00\xfe\xbd\x85U\x02'
+2021-07-30 16:14:01,389 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xa7\x00\xfe\xbd\x85'
+2021-07-30 16:14:01,389 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752807, ADC_B: 16694661
+2021-07-30 16:14:02,392 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xd3\x00\xfe\xbd?U\x02'
+2021-07-30 16:14:02,392 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xd3\x00\xfe\xbd?'
+2021-07-30 16:14:02,392 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752851, ADC_B: 16694591
+2021-07-30 16:14:03,394 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xe9\x00\xfe\xbdcU\x02'
+2021-07-30 16:14:03,394 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xe9\x00\xfe\xbdc'
+2021-07-30 16:14:03,394 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752873, ADC_B: 16694627
+2021-07-30 16:14:04,395 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xef\x00\xfe\xbd\x82U\x02'
+2021-07-30 16:14:04,395 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xef\x00\xfe\xbd\x82'
+2021-07-30 16:14:04,395 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752879, ADC_B: 16694658
+2021-07-30 16:14:05,397 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1?\x00\xfe\xbe\x03U\x02'
+2021-07-30 16:14:05,397 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1?\x00\xfe\xbe\x03'
+2021-07-30 16:14:05,397 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752959, ADC_B: 16694787
+2021-07-30 16:14:06,399 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xfa\x00\xfe\xbd\x9eU\x02'
+2021-07-30 16:14:06,399 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xfa\x00\xfe\xbd\x9e'
+2021-07-30 16:14:06,399 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752890, ADC_B: 16694686
+2021-07-30 16:14:07,400 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1r\x00\xfe\xbe\x19U\x02'
+2021-07-30 16:14:07,400 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1r\x00\xfe\xbe\x19'
+2021-07-30 16:14:07,400 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753010, ADC_B: 16694809
+2021-07-30 16:14:08,401 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa16\x00\xfe\xbe1U\x02'
+2021-07-30 16:14:08,402 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa16\x00\xfe\xbe1'
+2021-07-30 16:14:08,402 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752950, ADC_B: 16694833
+2021-07-30 16:14:09,404 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1n\x00\xfe\xbd\xb7U\x02'
+2021-07-30 16:14:09,404 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1n\x00\xfe\xbd\xb7'
+2021-07-30 16:14:09,405 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753006, ADC_B: 16694711
+2021-07-30 16:14:10,406 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\xc0\x00\xfe\xbe5U\x02'
+2021-07-30 16:14:10,407 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\xc0\x00\xfe\xbe5'
+2021-07-30 16:14:10,407 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753088, ADC_B: 16694837
+2021-07-30 16:14:11,408 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\xcb\x00\xfe\xbe\x86U\x02'
+2021-07-30 16:14:11,409 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\xcb\x00\xfe\xbe\x86'
+2021-07-30 16:14:11,409 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753099, ADC_B: 16694918
+2021-07-30 16:14:12,410 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\xec\x00\xfe\xbe2U\x02'
+2021-07-30 16:14:12,410 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\xec\x00\xfe\xbe2'
+2021-07-30 16:14:12,410 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753132, ADC_B: 16694834
+2021-07-30 16:14:13,412 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa2\x19\x00\xfe\xbe\x05U\x02'
+2021-07-30 16:14:13,412 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa2\x19\x00\xfe\xbe\x05'
+2021-07-30 16:14:13,412 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753177, ADC_B: 16694789
+2021-07-30 16:14:14,413 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\xed\x00\xfe\xbe\x0cU\x02'
+2021-07-30 16:14:14,413 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\xed\x00\xfe\xbe\x0c'
+2021-07-30 16:14:14,414 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753133, ADC_B: 16694796
+2021-07-30 16:14:15,414 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1(\x00\xfe\xbe?U\x02'
+2021-07-30 16:14:15,414 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1(\x00\xfe\xbe?'
+2021-07-30 16:14:15,415 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752936, ADC_B: 16694847
+2021-07-30 16:14:16,415 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x7f\x00\xfe\xbe\x04U\x02'
+2021-07-30 16:14:16,415 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x7f\x00\xfe\xbe\x04'
+2021-07-30 16:14:16,415 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753023, ADC_B: 16694788
+2021-07-30 16:14:17,416 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1t\x00\xfe\xbe4U\x02'
+2021-07-30 16:14:17,416 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1t\x00\xfe\xbe4'
+2021-07-30 16:14:17,417 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753012, ADC_B: 16694836
+2021-07-30 16:14:18,417 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1k\x00\xfe\xbd\xc1U\x02'
+2021-07-30 16:14:18,417 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1k\x00\xfe\xbd\xc1'
+2021-07-30 16:14:18,417 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753003, ADC_B: 16694721
+2021-07-30 16:14:19,418 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1?\x00\xfe\xbe\x07U\x02'
+2021-07-30 16:14:19,418 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1?\x00\xfe\xbe\x07'
+2021-07-30 16:14:19,419 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752959, ADC_B: 16694791
+2021-07-30 16:14:20,419 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xe4\x00\xfe\xbe\x1bU\x02'
+2021-07-30 16:14:20,420 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xe4\x00\xfe\xbe\x1b'
+2021-07-30 16:14:20,420 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752868, ADC_B: 16694811
+2021-07-30 16:14:21,421 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xb2\x00\xfe\xbe2U\x02'
+2021-07-30 16:14:21,421 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xb2\x00\xfe\xbe2'
+2021-07-30 16:14:21,422 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752818, ADC_B: 16694834
+2021-07-30 16:14:22,422 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x10\x00\xfe\xbd\xb8U\x02'
+2021-07-30 16:14:22,423 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x10\x00\xfe\xbd\xb8'
+2021-07-30 16:14:22,423 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752912, ADC_B: 16694712
+2021-07-30 16:14:23,424 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xd5\x00'
+2021-07-30 16:14:24,425 - /dev/ttyUSB0 - INFO - Received b'\xfe\xbd\xc5U\x02'
+2021-07-30 16:14:25,427 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1N\x00\xfe\xbdvU\x02'
+2021-07-30 16:14:25,427 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1N\x00\xfe\xbdv'
+2021-07-30 16:14:25,428 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752974, ADC_B: 16694646
+2021-07-30 16:14:26,429 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1I\x00\xfe\xbd\x7fU\x02'
+2021-07-30 16:14:26,430 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1I\x00\xfe\xbd\x7f'
+2021-07-30 16:14:26,430 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752969, ADC_B: 16694655
+2021-07-30 16:14:27,431 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa11\x00\xfe\xbd\xb7U\x02'
+2021-07-30 16:14:27,431 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa11\x00\xfe\xbd\xb7'
+2021-07-30 16:14:27,431 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752945, ADC_B: 16694711
+2021-07-30 16:14:28,432 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x90\x00\xfe\xbd\xbdU\x02'
+2021-07-30 16:14:28,433 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x90\x00\xfe\xbd\xbd'
+2021-07-30 16:14:28,433 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753040, ADC_B: 16694717
+2021-07-30 16:14:29,434 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\xb7\x00\xfe\xbd\xb9U\x02'
+2021-07-30 16:14:29,434 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\xb7\x00\xfe\xbd\xb9'
+2021-07-30 16:14:29,434 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753079, ADC_B: 16694713
+2021-07-30 16:14:30,436 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1u\x00\xfe\xbd\xe1U\x02'
+2021-07-30 16:14:30,436 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1u\x00\xfe\xbd\xe1'
+2021-07-30 16:14:30,436 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753013, ADC_B: 16694753
+2021-07-30 16:14:31,437 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\xbf\x00\xfe\xbe\x01U\x02'
+2021-07-30 16:14:31,438 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\xbf\x00\xfe\xbe\x01'
+2021-07-30 16:14:31,438 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753087, ADC_B: 16694785
+2021-07-30 16:14:32,439 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\xf8\x00\xfe\xbd\xb3U\x02'
+2021-07-30 16:14:32,439 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\xf8\x00\xfe\xbd\xb3'
+2021-07-30 16:14:32,439 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753144, ADC_B: 16694707
+2021-07-30 16:14:33,440 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\xf8\x00\xfe\xbeTU\x02'
+2021-07-30 16:14:33,440 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\xf8\x00\xfe\xbeT'
+2021-07-30 16:14:33,441 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753144, ADC_B: 16694868
+2021-07-30 16:14:34,441 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\xff\x00\xfe\xbeZU\x02'
+2021-07-30 16:14:34,442 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\xff\x00\xfe\xbeZ'
+2021-07-30 16:14:34,442 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753151, ADC_B: 16694874
+2021-07-30 16:14:35,443 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\xd9\x00\xfe\xbe\x86U\x02'
+2021-07-30 16:14:35,443 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\xd9\x00\xfe\xbe\x86'
+2021-07-30 16:14:35,443 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753113, ADC_B: 16694918
+2021-07-30 16:14:36,445 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\xab\x00\xfe\xbecU\x02'
+2021-07-30 16:14:36,445 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\xab\x00\xfe\xbec'
+2021-07-30 16:14:36,446 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753067, ADC_B: 16694883
+2021-07-30 16:14:37,447 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x9c\x00\xfe\xbe\x15U\x02'
+2021-07-30 16:14:37,448 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x9c\x00\xfe\xbe\x15'
+2021-07-30 16:14:37,448 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753052, ADC_B: 16694805
+2021-07-30 16:14:38,449 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x92\x00\xfe\xbe\rU\x02'
+2021-07-30 16:14:38,450 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x92\x00\xfe\xbe\r'
+2021-07-30 16:14:38,450 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753042, ADC_B: 16694797
+2021-07-30 16:14:39,451 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\xb3\x00\xfe\xbe>U\x02'
+2021-07-30 16:14:39,452 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\xb3\x00\xfe\xbe>'
+2021-07-30 16:14:39,452 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753075, ADC_B: 16694846
+2021-07-30 16:14:40,453 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1~\x00\xfe\xbe^U\x02'
+2021-07-30 16:14:40,454 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1~\x00\xfe\xbe^'
+2021-07-30 16:14:40,454 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753022, ADC_B: 16694878
+2021-07-30 16:14:41,455 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xa7\x00\xfe\xbe\x8fU\x02'
+2021-07-30 16:14:41,456 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xa7\x00\xfe\xbe\x8f'
+2021-07-30 16:14:41,456 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752807, ADC_B: 16694927
+2021-07-30 16:14:42,457 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1C\x00\xfe\xbeaU\x02'
+2021-07-30 16:14:42,457 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1C\x00\xfe\xbea'
+2021-07-30 16:14:42,458 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752963, ADC_B: 16694881
+2021-07-30 16:14:43,458 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1"\x00\xfe\xbe\xa3U\x02'
+2021-07-30 16:14:43,459 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1"\x00\xfe\xbe\xa3'
+2021-07-30 16:14:43,459 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752930, ADC_B: 16694947
+2021-07-30 16:14:44,460 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\x8c\x00\xfe\xbe\xafU\x02'
+2021-07-30 16:14:44,460 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\x8c\x00\xfe\xbe\xaf'
+2021-07-30 16:14:44,461 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752780, ADC_B: 16694959
+2021-07-30 16:14:45,462 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\\\x00\xfe\xbe1U\x02'
+2021-07-30 16:14:45,462 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\\\x00\xfe\xbe1'
+2021-07-30 16:14:45,462 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752732, ADC_B: 16694833
+2021-07-30 16:14:46,463 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xb3\x00\xfe\xbe4U\x02'
+2021-07-30 16:14:46,464 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xb3\x00\xfe\xbe4'
+2021-07-30 16:14:46,464 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752819, ADC_B: 16694836
+2021-07-30 16:14:47,465 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\x8a\x00\xfe\xbd\xf4U\x02'
+2021-07-30 16:14:47,466 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\x8a\x00\xfe\xbd\xf4'
+2021-07-30 16:14:47,466 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752778, ADC_B: 16694772
+2021-07-30 16:14:48,467 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0n\x00\xfe\xbd\xf2U\x02'
+2021-07-30 16:14:48,467 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0n\x00\xfe\xbd\xf2'
+2021-07-30 16:14:48,467 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752750, ADC_B: 16694770
+2021-07-30 16:14:49,468 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\x8a\x00\xfe\xbd\xe8U\x02'
+2021-07-30 16:14:49,468 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\x8a\x00\xfe\xbd\xe8'
+2021-07-30 16:14:49,469 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752778, ADC_B: 16694760
+2021-07-30 16:14:50,470 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0p\x00\xfe\xbd\x92U\x02'
+2021-07-30 16:14:50,470 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0p\x00\xfe\xbd\x92'
+2021-07-30 16:14:50,470 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752752, ADC_B: 16694674
+2021-07-30 16:14:51,472 - /dev/ttyUSB0 - INFO - Received b''
+2021-07-30 16:14:52,473 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xe0\x00\xfe\xbe\rU\x02'
+2021-07-30 16:14:52,474 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xe0\x00\xfe\xbe\r'
+2021-07-30 16:14:52,474 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752864, ADC_B: 16694797
+2021-07-30 16:14:53,476 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x0b\x00\xfe\xbd~U\x02'
+2021-07-30 16:14:53,476 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x0b\x00\xfe\xbd~'
+2021-07-30 16:14:53,476 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752907, ADC_B: 16694654
+2021-07-30 16:14:54,478 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1k\x00\xfe\xbd\xffU\x02'
+2021-07-30 16:14:54,478 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1k\x00\xfe\xbd\xff'
+2021-07-30 16:14:54,478 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753003, ADC_B: 16694783
+2021-07-30 16:14:55,479 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa16\x00\xfe\xbe\x9aU\x02'
+2021-07-30 16:14:55,480 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa16\x00\xfe\xbe\x9a'
+2021-07-30 16:14:55,480 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752950, ADC_B: 16694938
+2021-07-30 16:14:56,481 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1 \x00\xfe\xbd\xf3U\x02'
+2021-07-30 16:14:56,482 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1 \x00\xfe\xbd\xf3'
+2021-07-30 16:14:56,482 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752928, ADC_B: 16694771
+2021-07-30 16:14:57,484 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1g\x00\xfe\xbd\xf4U\x02'
+2021-07-30 16:14:57,484 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1g\x00\xfe\xbd\xf4'
+2021-07-30 16:14:57,484 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752999, ADC_B: 16694772
+2021-07-30 16:14:58,486 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa17\x00\xfe\xbd\x82U\x02'
+2021-07-30 16:14:58,486 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa17\x00\xfe\xbd\x82'
+2021-07-30 16:14:58,487 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752951, ADC_B: 16694658
+2021-07-30 16:14:59,490 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1F\x00\xfe\xbd\xfcU\x02'
+2021-07-30 16:14:59,491 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1F\x00\xfe\xbd\xfc'
+2021-07-30 16:14:59,492 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752966, ADC_B: 16694780
+2021-07-30 16:15:00,494 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1:\x00\xfe\xbd\xcbU\x02'
+2021-07-30 16:15:00,495 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1:\x00\xfe\xbd\xcb'
+2021-07-30 16:15:00,495 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752954, ADC_B: 16694731
+2021-07-30 16:15:01,498 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1]\x00\xfe\xbd\xe5U\x02'
+2021-07-30 16:15:01,499 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1]\x00\xfe\xbd\xe5'
+2021-07-30 16:15:01,499 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752989, ADC_B: 16694757
+2021-07-30 16:15:02,501 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x8f\x00\xfe\xbe|U\x02'
+2021-07-30 16:15:02,502 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x8f\x00\xfe\xbe|'
+2021-07-30 16:15:02,502 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753039, ADC_B: 16694908
+2021-07-30 16:15:03,503 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x91\x00\xfe\xbe\xa6U\x02'
+2021-07-30 16:15:03,503 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x91\x00\xfe\xbe\xa6'
+2021-07-30 16:15:03,504 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753041, ADC_B: 16694950
+2021-07-30 16:15:04,505 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1t\x00\xfe\xbd\xbcU\x02'
+2021-07-30 16:15:04,506 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1t\x00\xfe\xbd\xbc'
+2021-07-30 16:15:04,506 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753012, ADC_B: 16694716
+2021-07-30 16:15:05,508 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\xbd\x00\xfe\xbeSU\x02'
+2021-07-30 16:15:05,508 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\xbd\x00\xfe\xbeS'
+2021-07-30 16:15:05,508 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753085, ADC_B: 16694867
+2021-07-30 16:15:06,510 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\xb1\x00\xfe\xbe\xa4U\x02'
+2021-07-30 16:15:06,510 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\xb1\x00\xfe\xbe\xa4'
+2021-07-30 16:15:06,510 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753073, ADC_B: 16694948
+2021-07-30 16:15:07,511 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa22\x00\xfe\xbe\xc2U\x02'
+2021-07-30 16:15:07,512 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa22\x00\xfe\xbe\xc2'
+2021-07-30 16:15:07,512 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753202, ADC_B: 16694978
+2021-07-30 16:15:08,513 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\xf3\x00\xfe\xbeU\x00U\x02'
+2021-07-30 16:15:08,513 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\xf3\x00\xfe\xbeU'
+2021-07-30 16:15:08,513 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753139, ADC_B: 16694869
+2021-07-30 16:15:09,514 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa2t\x00\xfe\xbe\x85U\x02'
+2021-07-30 16:15:09,514 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa2t\x00\xfe\xbe\x85'
+2021-07-30 16:15:09,515 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753268, ADC_B: 16694917
+2021-07-30 16:15:10,516 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa2\n\x00\xfe\xbe\xe3U\x02'
+2021-07-30 16:15:10,516 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa2\n\x00\xfe\xbe\xe3'
+2021-07-30 16:15:10,516 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753162, ADC_B: 16695011
+2021-07-30 16:15:11,517 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\xdc\x00\xfe\xbe\xf9U\x02'
+2021-07-30 16:15:11,518 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\xdc\x00\xfe\xbe\xf9'
+2021-07-30 16:15:11,518 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753116, ADC_B: 16695033
+2021-07-30 16:15:12,519 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1N\x00\xfe\xbeZU\x02'
+2021-07-30 16:15:12,519 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1N\x00\xfe\xbeZ'
+2021-07-30 16:15:12,520 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752974, ADC_B: 16694874
+2021-07-30 16:15:13,521 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1}\x00\xfe\xbe\xfbU\x02'
+2021-07-30 16:15:13,521 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1}\x00\xfe\xbe\xfb'
+2021-07-30 16:15:13,522 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753021, ADC_B: 16695035
+2021-07-30 16:15:14,522 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\xd1\x00\xfe\xbe\xb0U\x02'
+2021-07-30 16:15:14,523 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\xd1\x00\xfe\xbe\xb0'
+2021-07-30 16:15:14,523 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753105, ADC_B: 16694960
+2021-07-30 16:15:15,524 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1;\x00\xfe\xbe\x1cU\x02'
+2021-07-30 16:15:15,524 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1;\x00\xfe\xbe\x1c'
+2021-07-30 16:15:15,524 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752955, ADC_B: 16694812
+2021-07-30 16:15:16,525 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1{\x00\xfe\xbe\x9aU\x02'
+2021-07-30 16:15:16,526 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1{\x00\xfe\xbe\x9a'
+2021-07-30 16:15:16,526 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753019, ADC_B: 16694938
+2021-07-30 16:15:17,527 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1+\x00\xfe\xbe\xb1U\x02'
+2021-07-30 16:15:17,527 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1+\x00\xfe\xbe\xb1'
+2021-07-30 16:15:17,527 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752939, ADC_B: 16694961
+2021-07-30 16:15:18,528 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1l\x00\xfe\xbd\xfeU\x02'
+2021-07-30 16:15:18,528 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1l\x00\xfe\xbd\xfe'
+2021-07-30 16:15:18,529 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753004, ADC_B: 16694782
+2021-07-30 16:15:19,530 - /dev/ttyUSB0 - INFO - Received b''
+2021-07-30 16:15:20,531 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1p\x00\xfe\xbeRU\x02'
+2021-07-30 16:15:20,532 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1p\x00\xfe\xbeR'
+2021-07-30 16:15:20,532 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753008, ADC_B: 16694866
+2021-07-30 16:15:21,534 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x7f\x00\xfe\xbeeU\x02'
+2021-07-30 16:15:21,534 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x7f\x00\xfe\xbee'
+2021-07-30 16:15:21,535 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753023, ADC_B: 16694885
+2021-07-30 16:15:22,538 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa15\x00\xfe\xbe[U\x02'
+2021-07-30 16:15:22,538 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa15\x00\xfe\xbe['
+2021-07-30 16:15:22,538 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752949, ADC_B: 16694875
+2021-07-30 16:15:23,540 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xee\x00\xfe\xbe\xc3U\x02'
+2021-07-30 16:15:23,540 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xee\x00\xfe\xbe\xc3'
+2021-07-30 16:15:23,541 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752878, ADC_B: 16694979
+2021-07-30 16:15:24,542 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa10\x00\xfe\xbe\x9aU\x02'
+2021-07-30 16:15:24,542 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa10\x00\xfe\xbe\x9a'
+2021-07-30 16:15:24,543 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752944, ADC_B: 16694938
+2021-07-30 16:15:25,545 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1)\x00\xfe\xbe_U\x02'
+2021-07-30 16:15:25,545 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1)\x00\xfe\xbe_'
+2021-07-30 16:15:25,546 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752937, ADC_B: 16694879
+2021-07-30 16:15:26,548 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1]\x00\xfe\xbe\x12U\x02'
+2021-07-30 16:15:26,548 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1]\x00\xfe\xbe\x12'
+2021-07-30 16:15:26,549 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752989, ADC_B: 16694802
+2021-07-30 16:15:27,550 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\n\x00\xfe\xbe\x02U\x02'
+2021-07-30 16:15:27,550 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\n\x00\xfe\xbe\x02'
+2021-07-30 16:15:27,551 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752906, ADC_B: 16694786
+2021-07-30 16:15:28,552 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xcc\x00\xfe\xbe\x7fU\x02'
+2021-07-30 16:15:28,552 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xcc\x00\xfe\xbe\x7f'
+2021-07-30 16:15:28,553 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752844, ADC_B: 16694911
+2021-07-30 16:15:29,554 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\x81\x00\xfe\xbe<U\x02'
+2021-07-30 16:15:29,554 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\x81\x00\xfe\xbe<'
+2021-07-30 16:15:29,554 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752769, ADC_B: 16694844
+2021-07-30 16:15:30,556 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x0c\x00\xfe\xbe@U\x02'
+2021-07-30 16:15:30,556 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x0c\x00\xfe\xbe@'
+2021-07-30 16:15:30,556 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752908, ADC_B: 16694848
+2021-07-30 16:15:31,557 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xc2\x00\xfe\xbe2U\x02'
+2021-07-30 16:15:31,558 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xc2\x00\xfe\xbe2'
+2021-07-30 16:15:31,558 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752834, ADC_B: 16694834
+2021-07-30 16:15:32,559 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xe4\x00\xfe\xbd\xf6U\x02'
+2021-07-30 16:15:32,560 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xe4\x00\xfe\xbd\xf6'
+2021-07-30 16:15:32,560 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752868, ADC_B: 16694774
+2021-07-30 16:15:33,561 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xce\x00\xfe\xbe\x8dU\x02'
+2021-07-30 16:15:33,562 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xce\x00\xfe\xbe\x8d'
+2021-07-30 16:15:33,562 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752846, ADC_B: 16694925
+2021-07-30 16:15:34,563 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xbc\x00\xfe\xbd\xddU\x02'
+2021-07-30 16:15:34,564 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xbc\x00\xfe\xbd\xdd'
+2021-07-30 16:15:34,565 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752828, ADC_B: 16694749
+2021-07-30 16:15:35,568 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xd0\x00\xfe\xbe\x88U\x02'
+2021-07-30 16:15:35,568 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xd0\x00\xfe\xbe\x88'
+2021-07-30 16:15:35,569 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752848, ADC_B: 16694920
+2021-07-30 16:15:36,571 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xbf\x00\xfe\xbe4U\x02'
+2021-07-30 16:15:36,572 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xbf\x00\xfe\xbe4'
+2021-07-30 16:15:36,573 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752831, ADC_B: 16694836
+2021-07-30 16:15:37,575 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xe3\x00\xfe\xbd\xe9U\x02'
+2021-07-30 16:15:37,576 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xe3\x00\xfe\xbd\xe9'
+2021-07-30 16:15:37,578 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752867, ADC_B: 16694761
+2021-07-30 16:15:38,580 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xb5\x00\xfe\xbe:U\x02'
+2021-07-30 16:15:38,580 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xb5\x00\xfe\xbe:'
+2021-07-30 16:15:38,580 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752821, ADC_B: 16694842
+2021-07-30 16:15:39,581 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0d\x00\xfe\xbd\xdcU\x02'
+2021-07-30 16:15:39,582 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0d\x00\xfe\xbd\xdc'
+2021-07-30 16:15:39,583 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752740, ADC_B: 16694748
+2021-07-30 16:15:40,584 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xa5\x00\xfe\xbd\xbeU\x02'
+2021-07-30 16:15:40,585 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xa5\x00\xfe\xbd\xbe'
+2021-07-30 16:15:40,586 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752805, ADC_B: 16694718
+2021-07-30 16:15:41,587 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xea\x00\xfe\xbd\x9eU\x02'
+2021-07-30 16:15:41,589 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xea\x00\xfe\xbd\x9e'
+2021-07-30 16:15:41,590 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752874, ADC_B: 16694686
+2021-07-30 16:15:42,591 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xb2\x00\xfe\xbdvU\x02'
+2021-07-30 16:15:42,592 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xb2\x00\xfe\xbdv'
+2021-07-30 16:15:42,593 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752818, ADC_B: 16694646
+2021-07-30 16:15:43,595 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xdd\x00\xfe\xbd\xf3U\x02'
+2021-07-30 16:15:43,597 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xdd\x00\xfe\xbd\xf3'
+2021-07-30 16:15:43,597 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752861, ADC_B: 16694771
+2021-07-30 16:15:44,598 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1%\x00\xfe\xbd\xd5U\x02'
+2021-07-30 16:15:44,599 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1%\x00\xfe\xbd\xd5'
+2021-07-30 16:15:44,600 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752933, ADC_B: 16694741
+2021-07-30 16:15:45,601 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\n\x00\xfe\xbd\xfcU\x02'
+2021-07-30 16:15:45,601 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\n\x00\xfe\xbd\xfc'
+2021-07-30 16:15:45,601 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752906, ADC_B: 16694780
+2021-07-30 16:15:46,601 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa14\x00\xfe\xbe,U\x02'
+2021-07-30 16:15:46,602 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa14\x00\xfe\xbe,'
+2021-07-30 16:15:46,603 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752948, ADC_B: 16694828
+2021-07-30 16:15:47,605 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1:\x00\xfe\xbd\x83U\x02'
+2021-07-30 16:15:47,606 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1:\x00\xfe\xbd\x83'
+2021-07-30 16:15:47,607 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752954, ADC_B: 16694659
+2021-07-30 16:15:48,610 - /dev/ttyUSB0 - INFO - Received b''
+2021-07-30 16:15:49,612 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xb0\x00\xfe\xbe$U\x02'
+2021-07-30 16:15:49,613 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xb0\x00\xfe\xbe$'
+2021-07-30 16:15:49,614 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752816, ADC_B: 16694820
+2021-07-30 16:15:50,616 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x19\x00\xfe\xbd\xe1U\x02'
+2021-07-30 16:15:50,617 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x19\x00\xfe\xbd\xe1'
+2021-07-30 16:15:50,617 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752921, ADC_B: 16694753
+2021-07-30 16:15:51,619 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1~\x00\xfe\xbd\xefU\x02'
+2021-07-30 16:15:51,619 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1~\x00\xfe\xbd\xef'
+2021-07-30 16:15:51,620 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753022, ADC_B: 16694767
+2021-07-30 16:15:52,623 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1!\x00\xfe\xbe\x05U\x02'
+2021-07-30 16:15:52,624 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1!\x00\xfe\xbe\x05'
+2021-07-30 16:15:52,624 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752929, ADC_B: 16694789
+2021-07-30 16:15:53,626 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1v\x00\xfe\xbe\x18U\x02'
+2021-07-30 16:15:53,626 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1v\x00\xfe\xbe\x18'
+2021-07-30 16:15:53,626 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753014, ADC_B: 16694808
+2021-07-30 16:15:54,627 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1l\x00\xfe\xbd\xccU\x02'
+2021-07-30 16:15:54,627 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1l\x00\xfe\xbd\xcc'
+2021-07-30 16:15:54,627 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753004, ADC_B: 16694732
+2021-07-30 16:15:55,628 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa11\x00\xfe\xbd\xe3U\x02'
+2021-07-30 16:15:55,629 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa11\x00\xfe\xbd\xe3'
+2021-07-30 16:15:55,629 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752945, ADC_B: 16694755
+2021-07-30 16:15:56,630 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1@\x00\xfe\xbd\xbbU\x02'
+2021-07-30 16:15:56,630 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1@\x00\xfe\xbd\xbb'
+2021-07-30 16:15:56,630 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752960, ADC_B: 16694715
+2021-07-30 16:15:57,632 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1a\x00\xfe\xbd\xa0U\x02'
+2021-07-30 16:15:57,633 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1a\x00\xfe\xbd\xa0'
+2021-07-30 16:15:57,633 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752993, ADC_B: 16694688
+2021-07-30 16:15:58,635 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa12\x00\xfe\xbd\xdcU\x02'
+2021-07-30 16:15:58,635 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa12\x00\xfe\xbd\xdc'
+2021-07-30 16:15:58,635 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752946, ADC_B: 16694748
+2021-07-30 16:15:59,638 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1~\x00\xfe\xbd\xf8U\x02'
+2021-07-30 16:15:59,640 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1~\x00\xfe\xbd\xf8'
+2021-07-30 16:15:59,640 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753022, ADC_B: 16694776
+2021-07-30 16:16:00,643 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\\\x00\xfe\xbeSU\x02'
+2021-07-30 16:16:00,644 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\\\x00\xfe\xbeS'
+2021-07-30 16:16:00,644 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752988, ADC_B: 16694867
+2021-07-30 16:16:01,644 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x7f\x00\xfe\xbe.U\x02'
+2021-07-30 16:16:01,645 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x7f\x00\xfe\xbe.'
+2021-07-30 16:16:01,645 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753023, ADC_B: 16694830
+2021-07-30 16:16:02,646 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xf3\x00\xfe\xbd\xc1U\x02'
+2021-07-30 16:16:02,646 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xf3\x00\xfe\xbd\xc1'
+2021-07-30 16:16:02,647 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752883, ADC_B: 16694721
+2021-07-30 16:16:03,649 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1I\x00\xfe\xbe\x10U\x02'
+2021-07-30 16:16:03,651 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1I\x00\xfe\xbe\x10'
+2021-07-30 16:16:03,651 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752969, ADC_B: 16694800
+2021-07-30 16:16:04,654 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xf1\x00\xfe\xbe8U\x02'
+2021-07-30 16:16:04,654 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xf1\x00\xfe\xbe8'
+2021-07-30 16:16:04,654 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752881, ADC_B: 16694840
+2021-07-30 16:16:05,655 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1/\x00\xfe\xbd\x81U\x02'
+2021-07-30 16:16:05,655 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1/\x00\xfe\xbd\x81'
+2021-07-30 16:16:05,656 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752943, ADC_B: 16694657
+2021-07-30 16:16:06,657 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1|\x00\xfe\xbd\xd7U\x02'
+2021-07-30 16:16:06,658 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1|\x00\xfe\xbd\xd7'
+2021-07-30 16:16:06,658 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753020, ADC_B: 16694743
+2021-07-30 16:16:07,659 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1r\x00\xfe\xbe\x11U\x02'
+2021-07-30 16:16:07,659 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1r\x00\xfe\xbe\x11'
+2021-07-30 16:16:07,659 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753010, ADC_B: 16694801
+2021-07-30 16:16:08,660 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1Q\x00\xfe\xbd\xcfU\x02'
+2021-07-30 16:16:08,660 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1Q\x00\xfe\xbd\xcf'
+2021-07-30 16:16:08,661 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752977, ADC_B: 16694735
+2021-07-30 16:16:09,661 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x88\x00\xfe\xbd\xc5U\x02'
+2021-07-30 16:16:09,662 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x88\x00\xfe\xbd\xc5'
+2021-07-30 16:16:09,662 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753032, ADC_B: 16694725
+2021-07-30 16:16:10,663 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x84\x00\xfe\xbd\xd3U\x02'
+2021-07-30 16:16:10,664 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x84\x00\xfe\xbd\xd3'
+2021-07-30 16:16:10,664 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753028, ADC_B: 16694739
+2021-07-30 16:16:11,665 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\xc6\x00\xfe\xbeKU\x02'
+2021-07-30 16:16:11,666 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\xc6\x00\xfe\xbeK'
+2021-07-30 16:16:11,666 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753094, ADC_B: 16694859
+2021-07-30 16:16:12,668 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\xb2\x00\xfe\xbe\x88U\x02'
+2021-07-30 16:16:12,669 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\xb2\x00\xfe\xbe\x88'
+2021-07-30 16:16:12,670 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753074, ADC_B: 16694920
+2021-07-30 16:16:13,672 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x91\x00\xfe\xbd\xb6U\x02'
+2021-07-30 16:16:13,672 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x91\x00\xfe\xbd\xb6'
+2021-07-30 16:16:13,673 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753041, ADC_B: 16694710
+2021-07-30 16:16:14,674 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x90\x00\xfe\xbe\x1cU\x02'
+2021-07-30 16:16:14,675 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x90\x00\xfe\xbe\x1c'
+2021-07-30 16:16:14,675 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753040, ADC_B: 16694812
+2021-07-30 16:16:15,676 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\xa8\x00\xfe\xbenU\x02'
+2021-07-30 16:16:15,676 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\xa8\x00\xfe\xben'
+2021-07-30 16:16:15,676 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753064, ADC_B: 16694894
+2021-07-30 16:16:16,678 - /dev/ttyUSB0 - INFO - Received b''
+2021-07-30 16:16:17,679 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\xa0\x00\xfe\xbe\xa0U\x02'
+2021-07-30 16:16:17,680 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\xa0\x00\xfe\xbe\xa0'
+2021-07-30 16:16:17,680 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753056, ADC_B: 16694944
+2021-07-30 16:16:18,682 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\xb6\x00\xfe\xbeDU\x02'
+2021-07-30 16:16:18,682 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\xb6\x00\xfe\xbeD'
+2021-07-30 16:16:18,682 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753078, ADC_B: 16694852
+2021-07-30 16:16:19,683 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\xa7\x00\xfe\xbd\xdfU\x02'
+2021-07-30 16:16:19,684 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\xa7\x00\xfe\xbd\xdf'
+2021-07-30 16:16:19,684 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753063, ADC_B: 16694751
+2021-07-30 16:16:20,685 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x9c\x00\xfe\xbd\xf5U\x02'
+2021-07-30 16:16:20,686 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x9c\x00\xfe\xbd\xf5'
+2021-07-30 16:16:20,686 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753052, ADC_B: 16694773
+2021-07-30 16:16:21,688 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\xc2\x00\xfe\xbe+U\x02'
+2021-07-30 16:16:21,688 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\xc2\x00\xfe\xbe+'
+2021-07-30 16:16:21,688 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753090, ADC_B: 16694827
+2021-07-30 16:16:22,691 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\\\x00\xfe\xbehU\x02'
+2021-07-30 16:16:22,691 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\\\x00\xfe\xbeh'
+2021-07-30 16:16:22,691 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752988, ADC_B: 16694888
+2021-07-30 16:16:23,693 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xea\x00\xfe\xbe\x13U\x02'
+2021-07-30 16:16:23,693 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xea\x00\xfe\xbe\x13'
+2021-07-30 16:16:23,693 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752874, ADC_B: 16694803
+2021-07-30 16:16:24,696 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1E\x00\xfe\xbd\xddU\x02'
+2021-07-30 16:16:24,697 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1E\x00\xfe\xbd\xdd'
+2021-07-30 16:16:24,698 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752965, ADC_B: 16694749
+2021-07-30 16:16:25,701 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1<\x00\xfe\xbd\xdfU\x02'
+2021-07-30 16:16:25,701 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1<\x00\xfe\xbd\xdf'
+2021-07-30 16:16:25,701 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752956, ADC_B: 16694751
+2021-07-30 16:16:26,702 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1t\x00\xfe\xbeeU\x02'
+2021-07-30 16:16:26,703 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1t\x00\xfe\xbee'
+2021-07-30 16:16:26,704 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753012, ADC_B: 16694885
+2021-07-30 16:16:27,706 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1G\x00\xfe\xbeyU\x02'
+2021-07-30 16:16:27,706 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1G\x00\xfe\xbey'
+2021-07-30 16:16:27,707 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752967, ADC_B: 16694905
+2021-07-30 16:16:28,710 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x89\x00\xfe\xbe\xa8U\x02'
+2021-07-30 16:16:28,711 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x89\x00\xfe\xbe\xa8'
+2021-07-30 16:16:28,711 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753033, ADC_B: 16694952
+2021-07-30 16:16:29,712 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xef\x00\xfe\xbeAU\x02'
+2021-07-30 16:16:29,713 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xef\x00\xfe\xbeA'
+2021-07-30 16:16:29,713 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752879, ADC_B: 16694849
+2021-07-30 16:16:30,716 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1P\x00\xfe\xbehU\x02'
+2021-07-30 16:16:30,717 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1P\x00\xfe\xbeh'
+2021-07-30 16:16:30,718 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752976, ADC_B: 16694888
+2021-07-30 16:16:31,720 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\n\x00\xfe\xbe}U\x02'
+2021-07-30 16:16:31,721 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\n\x00\xfe\xbe}'
+2021-07-30 16:16:31,722 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752906, ADC_B: 16694909
+2021-07-30 16:16:32,725 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\r\x00\xfe\xbeSU\x02'
+2021-07-30 16:16:32,726 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\r\x00\xfe\xbeS'
+2021-07-30 16:16:32,726 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752909, ADC_B: 16694867
+2021-07-30 16:16:33,727 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa19\x00\xfe\xbe3U\x02'
+2021-07-30 16:16:33,728 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa19\x00\xfe\xbe3'
+2021-07-30 16:16:33,728 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752953, ADC_B: 16694835
+2021-07-30 16:16:34,729 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xd1\x00\xfe\xbeGU\x02'
+2021-07-30 16:16:34,730 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xd1\x00\xfe\xbeG'
+2021-07-30 16:16:34,730 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752849, ADC_B: 16694855
+2021-07-30 16:16:35,732 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa16\x00\xfe\xbeoU\x02'
+2021-07-30 16:16:35,732 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa16\x00\xfe\xbeo'
+2021-07-30 16:16:35,733 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752950, ADC_B: 16694895
+2021-07-30 16:16:36,736 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xe6\x00\xfe\xbe\x1aU\x02'
+2021-07-30 16:16:36,736 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xe6\x00\xfe\xbe\x1a'
+2021-07-30 16:16:36,737 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752870, ADC_B: 16694810
+2021-07-30 16:16:37,739 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xb6\x00\xfe\xbe1U\x02'
+2021-07-30 16:16:37,740 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xb6\x00\xfe\xbe1'
+2021-07-30 16:16:37,741 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752822, ADC_B: 16694833
+2021-07-30 16:16:38,743 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0S\x00\xfe\xbd\xa7U\x02'
+2021-07-30 16:16:38,744 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0S\x00\xfe\xbd\xa7'
+2021-07-30 16:16:38,744 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752723, ADC_B: 16694695
+2021-07-30 16:16:39,747 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xae\x00\xfe\xbd\xeeU\x02'
+2021-07-30 16:16:39,747 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xae\x00\xfe\xbd\xee'
+2021-07-30 16:16:39,747 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752814, ADC_B: 16694766
+2021-07-30 16:16:40,749 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\x95\x00\xfe\xbd\xe0U\x02'
+2021-07-30 16:16:40,750 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\x95\x00\xfe\xbd\xe0'
+2021-07-30 16:16:40,751 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752789, ADC_B: 16694752
+2021-07-30 16:16:41,752 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x08\x00\xfe\xbeAU\x02'
+2021-07-30 16:16:41,752 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x08\x00\xfe\xbeA'
+2021-07-30 16:16:41,752 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752904, ADC_B: 16694849
+2021-07-30 16:16:42,753 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\x98\x00\xfe\xbegU\x02'
+2021-07-30 16:16:42,753 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\x98\x00\xfe\xbeg'
+2021-07-30 16:16:42,754 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752792, ADC_B: 16694887
+2021-07-30 16:16:43,755 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\x8e\x00\xfe\xbd\xd3U\x02'
+2021-07-30 16:16:43,755 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\x8e\x00\xfe\xbd\xd3'
+2021-07-30 16:16:43,756 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752782, ADC_B: 16694739
+2021-07-30 16:16:44,758 - /dev/ttyUSB0 - INFO - Received b''
+2021-07-30 16:16:45,759 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xbe\x00\xfe\xbepU\x02'
+2021-07-30 16:16:45,760 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xbe\x00\xfe\xbep'
+2021-07-30 16:16:45,760 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752830, ADC_B: 16694896
+2021-07-30 16:16:46,762 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0A\x00\xfe\xbd\xdbU\x02'
+2021-07-30 16:16:46,762 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0A\x00\xfe\xbd\xdb'
+2021-07-30 16:16:46,762 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752705, ADC_B: 16694747
+2021-07-30 16:16:47,764 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xb7\x00\xfe\xbe*U\x02'
+2021-07-30 16:16:47,764 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xb7\x00\xfe\xbe*'
+2021-07-30 16:16:47,765 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752823, ADC_B: 16694826
+2021-07-30 16:16:48,766 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xf4\x00\xfe\xbe\x1aU\x02'
+2021-07-30 16:16:48,767 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xf4\x00\xfe\xbe\x1a'
+2021-07-30 16:16:48,767 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752884, ADC_B: 16694810
+2021-07-30 16:16:49,769 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\x92\x00\xfe\xbd\xe5U\x02'
+2021-07-30 16:16:49,769 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\x92\x00\xfe\xbd\xe5'
+2021-07-30 16:16:49,769 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752786, ADC_B: 16694757
+2021-07-30 16:16:50,779 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\x95\x00\xfe\xbd\xa6U\x02'
+2021-07-30 16:16:50,779 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\x95\x00\xfe\xbd\xa6'
+2021-07-30 16:16:50,780 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752789, ADC_B: 16694694
+2021-07-30 16:16:51,781 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0{\x00\xfe\xbd\xaeU\x02'
+2021-07-30 16:16:51,781 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0{\x00\xfe\xbd\xae'
+2021-07-30 16:16:51,782 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752763, ADC_B: 16694702
+2021-07-30 16:16:52,783 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\x83\x00\xfe\xbd\xd2U\x02'
+2021-07-30 16:16:52,783 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\x83\x00\xfe\xbd\xd2'
+2021-07-30 16:16:52,784 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752771, ADC_B: 16694738
+2021-07-30 16:16:53,785 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\\\x00\xfe\xbd*U\x02'
+2021-07-30 16:16:53,785 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\\\x00\xfe\xbd*'
+2021-07-30 16:16:53,786 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752732, ADC_B: 16694570
+2021-07-30 16:16:54,787 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\x83\x00\xfe\xbe.U\x02'
+2021-07-30 16:16:54,787 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\x83\x00\xfe\xbe.'
+2021-07-30 16:16:54,788 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752771, ADC_B: 16694830
+2021-07-30 16:16:55,789 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xa9\x00\xfe\xbd\xcfU\x02'
+2021-07-30 16:16:55,789 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xa9\x00\xfe\xbd\xcf'
+2021-07-30 16:16:55,789 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752809, ADC_B: 16694735
+2021-07-30 16:16:56,790 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0>\x00\xfe\xbd\xcbU\x02'
+2021-07-30 16:16:56,790 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0>\x00\xfe\xbd\xcb'
+2021-07-30 16:16:56,790 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752702, ADC_B: 16694731
+2021-07-30 16:16:57,791 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\x95\x00\xfe\xbd\xbbU\x02'
+2021-07-30 16:16:57,791 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\x95\x00\xfe\xbd\xbb'
+2021-07-30 16:16:57,792 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752789, ADC_B: 16694715
+2021-07-30 16:16:58,793 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xc3\x00\xfe\xbd\xa6U\x02'
+2021-07-30 16:16:58,793 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xc3\x00\xfe\xbd\xa6'
+2021-07-30 16:16:58,793 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752835, ADC_B: 16694694
+2021-07-30 16:16:59,795 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\x96\x00\xfe\xbd\xe2U\x02'
+2021-07-30 16:16:59,795 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\x96\x00\xfe\xbd\xe2'
+2021-07-30 16:16:59,795 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752790, ADC_B: 16694754
+2021-07-30 16:17:00,796 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xaa\x00\xfe\xbd\x9fU\x02'
+2021-07-30 16:17:00,797 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xaa\x00\xfe\xbd\x9f'
+2021-07-30 16:17:00,797 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752810, ADC_B: 16694687
+2021-07-30 16:17:01,798 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\x86\x00\xfe\xbd\xf6U\x02'
+2021-07-30 16:17:01,798 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\x86\x00\xfe\xbd\xf6'
+2021-07-30 16:17:01,799 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752774, ADC_B: 16694774
+2021-07-30 16:17:02,800 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xd2\x00\xfe\xbd\x90U\x02'
+2021-07-30 16:17:02,800 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xd2\x00\xfe\xbd\x90'
+2021-07-30 16:17:02,800 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752850, ADC_B: 16694672
+2021-07-30 16:17:03,801 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xe5\x00\xfe\xbe3U\x02'
+2021-07-30 16:17:03,802 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xe5\x00\xfe\xbe3'
+2021-07-30 16:17:03,802 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752869, ADC_B: 16694835
+2021-07-30 16:17:04,802 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1!\x00\xfe\xbd\xefU\x02'
+2021-07-30 16:17:04,803 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1!\x00\xfe\xbd\xef'
+2021-07-30 16:17:04,803 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752929, ADC_B: 16694767
+2021-07-30 16:17:05,804 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x02\x00\xfe\xbd\xb5U\x02'
+2021-07-30 16:17:05,804 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x02\x00\xfe\xbd\xb5'
+2021-07-30 16:17:05,804 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752898, ADC_B: 16694709
+2021-07-30 16:17:06,805 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x07\x00\xfe\xbd\xb4U\x02'
+2021-07-30 16:17:06,806 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x07\x00\xfe\xbd\xb4'
+2021-07-30 16:17:06,806 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752903, ADC_B: 16694708
+2021-07-30 16:17:07,807 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xaf\x00\xfe\xbepU\x02'
+2021-07-30 16:17:07,807 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xaf\x00\xfe\xbep'
+2021-07-30 16:17:07,808 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752815, ADC_B: 16694896
+2021-07-30 16:17:08,808 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1c\x00\xfe\xbd\xc9U\x02'
+2021-07-30 16:17:08,809 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1c\x00\xfe\xbd\xc9'
+2021-07-30 16:17:08,809 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752995, ADC_B: 16694729
+2021-07-30 16:17:09,810 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xfa\x00\xfe\xbe)U\x02'
+2021-07-30 16:17:09,810 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xfa\x00\xfe\xbe)'
+2021-07-30 16:17:09,811 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752890, ADC_B: 16694825
+2021-07-30 16:17:10,811 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xe9\x00\xfe\xbd\xd9U\x02'
+2021-07-30 16:17:10,811 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xe9\x00\xfe\xbd\xd9'
+2021-07-30 16:17:10,812 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752873, ADC_B: 16694745
+2021-07-30 16:17:11,812 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\t\x00\xfe\xbd\xfeU\x02'
+2021-07-30 16:17:11,812 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\t\x00\xfe\xbd\xfe'
+2021-07-30 16:17:11,813 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752905, ADC_B: 16694782
+2021-07-30 16:17:12,814 - /dev/ttyUSB0 - INFO - Received b''
+2021-07-30 16:17:13,815 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1w\x00\xfe\xbe=U\x02'
+2021-07-30 16:17:13,816 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1w\x00\xfe\xbe='
+2021-07-30 16:17:13,816 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753015, ADC_B: 16694845
+2021-07-30 16:17:14,817 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1D\x00\xfe\xbe]U\x02'
+2021-07-30 16:17:14,818 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1D\x00\xfe\xbe]'
+2021-07-30 16:17:14,818 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752964, ADC_B: 16694877
+2021-07-30 16:17:15,819 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\xae\x00\xfe\xbe\x12U\x02'
+2021-07-30 16:17:15,820 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\xae\x00\xfe\xbe\x12'
+2021-07-30 16:17:15,820 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753070, ADC_B: 16694802
+2021-07-30 16:17:16,821 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\xac\x00\xfe\xbd\xf6U\x02'
+2021-07-30 16:17:16,821 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\xac\x00\xfe\xbd\xf6'
+2021-07-30 16:17:16,822 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753068, ADC_B: 16694774
+2021-07-30 16:17:17,822 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x99\x00\xfe\xbd\xe4U\x02'
+2021-07-30 16:17:17,823 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x99\x00\xfe\xbd\xe4'
+2021-07-30 16:17:17,823 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753049, ADC_B: 16694756
+2021-07-30 16:17:18,824 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\xa2\x00\xfe\xbd\x85U\x02'
+2021-07-30 16:17:18,825 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\xa2\x00\xfe\xbd\x85'
+2021-07-30 16:17:18,825 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753058, ADC_B: 16694661
+2021-07-30 16:17:19,826 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1p\x00\xfe\xbdcU\x02'
+2021-07-30 16:17:19,826 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1p\x00\xfe\xbdc'
+2021-07-30 16:17:19,826 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753008, ADC_B: 16694627
+2021-07-30 16:17:20,828 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa2f\x00\xfe\xbd[U\x02'
+2021-07-30 16:17:20,828 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa2f\x00\xfe\xbd['
+2021-07-30 16:17:20,829 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753254, ADC_B: 16694619
+2021-07-30 16:17:21,834 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\xe9\x00\xfe\xbd\x83U\x02'
+2021-07-30 16:17:21,834 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\xe9\x00\xfe\xbd\x83'
+2021-07-30 16:17:21,834 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753129, ADC_B: 16694659
+2021-07-30 16:17:22,835 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x88\x00\xfe\xbe2U\x02'
+2021-07-30 16:17:22,836 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x88\x00\xfe\xbe2'
+2021-07-30 16:17:22,836 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753032, ADC_B: 16694834
+2021-07-30 16:17:23,837 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1`\x00\xfe\xbe\x9cU\x02'
+2021-07-30 16:17:23,838 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1`\x00\xfe\xbe\x9c'
+2021-07-30 16:17:23,838 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752992, ADC_B: 16694940
+2021-07-30 16:17:24,839 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x9d\x00\xfe\xbe0U\x02'
+2021-07-30 16:17:24,840 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x9d\x00\xfe\xbe0'
+2021-07-30 16:17:24,840 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753053, ADC_B: 16694832
+2021-07-30 16:17:25,841 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\xae\x00\xfe\xbd\xfcU\x02'
+2021-07-30 16:17:25,841 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\xae\x00\xfe\xbd\xfc'
+2021-07-30 16:17:25,842 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753070, ADC_B: 16694780
+2021-07-30 16:17:26,843 - /dev/ttyUSB0 - INFO - Received b"U\x01\x01\x00\xff\xa1y\x00\xfe\xbe'U\x02"
+2021-07-30 16:17:26,843 - /dev/ttyUSB0 - INFO - Cleaned bytes b"\x01\x00\xff\xa1y\x00\xfe\xbe'"
+2021-07-30 16:17:26,843 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753017, ADC_B: 16694823
+2021-07-30 16:17:27,844 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x96\x00\xfe\xbezU\x02'
+2021-07-30 16:17:27,844 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x96\x00\xfe\xbez'
+2021-07-30 16:17:27,844 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753046, ADC_B: 16694906
+2021-07-30 16:17:28,845 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x8d\x00\xfe\xbe8U\x02'
+2021-07-30 16:17:28,845 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x8d\x00\xfe\xbe8'
+2021-07-30 16:17:28,845 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753037, ADC_B: 16694840
+2021-07-30 16:17:29,846 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1L\x00\xfe\xbd\xe0U\x02'
+2021-07-30 16:17:29,847 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1L\x00\xfe\xbd\xe0'
+2021-07-30 16:17:29,847 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752972, ADC_B: 16694752
+2021-07-30 16:17:30,848 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x95\x00\xfe\xbeMU\x02'
+2021-07-30 16:17:30,848 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x95\x00\xfe\xbeM'
+2021-07-30 16:17:30,849 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753045, ADC_B: 16694861
+2021-07-30 16:17:31,850 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x90\x00\xfe\xbe\xa4U\x02'
+2021-07-30 16:17:31,850 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x90\x00\xfe\xbe\xa4'
+2021-07-30 16:17:31,850 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753040, ADC_B: 16694948
+2021-07-30 16:17:32,851 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x19\x00\xfe\xbe\x9eU\x02'
+2021-07-30 16:17:32,851 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x19\x00\xfe\xbe\x9e'
+2021-07-30 16:17:32,852 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752921, ADC_B: 16694942
+2021-07-30 16:17:33,853 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1+\x00\xfe\xbe,U\x02'
+2021-07-30 16:17:33,853 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1+\x00\xfe\xbe,'
+2021-07-30 16:17:33,853 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752939, ADC_B: 16694828
+2021-07-30 16:17:34,854 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xe6\x00\xfe\xbebU\x02'
+2021-07-30 16:17:34,854 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xe6\x00\xfe\xbeb'
+2021-07-30 16:17:34,854 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752870, ADC_B: 16694882
+2021-07-30 16:17:35,854 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa18\x00\xfe\xbe.U\x02'
+2021-07-30 16:17:35,855 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa18\x00\xfe\xbe.'
+2021-07-30 16:17:35,855 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752952, ADC_B: 16694830
+2021-07-30 16:17:36,855 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xcc\x00\xfe\xbeoU\x02'
+2021-07-30 16:17:36,855 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xcc\x00\xfe\xbeo'
+2021-07-30 16:17:36,855 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752844, ADC_B: 16694895
+2021-07-30 16:17:37,856 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1$\x00\xfe\xbe\\U\x02'
+2021-07-30 16:17:37,856 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1$\x00\xfe\xbe\\'
+2021-07-30 16:17:37,856 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752932, ADC_B: 16694876
+2021-07-30 16:17:38,856 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1-\x00\xfe\xbeSU\x02'
+2021-07-30 16:17:38,857 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1-\x00\xfe\xbeS'
+2021-07-30 16:17:38,857 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752941, ADC_B: 16694867
+2021-07-30 16:17:39,857 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\x82\x00\xfe\xbe=U\x02'
+2021-07-30 16:17:39,858 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\x82\x00\xfe\xbe='
+2021-07-30 16:17:39,858 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752770, ADC_B: 16694845
+2021-07-30 16:17:40,860 - /dev/ttyUSB0 - INFO - Received b''
+2021-07-30 16:17:41,861 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xc5\x00\xfe\xbe5U\x02'
+2021-07-30 16:17:41,862 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xc5\x00\xfe\xbe5'
+2021-07-30 16:17:41,862 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752837, ADC_B: 16694837
+2021-07-30 16:17:42,864 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x04\x00\xfe\xbd\xefU\x02'
+2021-07-30 16:17:42,864 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x04\x00\xfe\xbd\xef'
+2021-07-30 16:17:42,864 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752900, ADC_B: 16694767
+2021-07-30 16:17:43,866 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\x92\x00\xfe\xbd\xbdU\x02'
+2021-07-30 16:17:43,866 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\x92\x00\xfe\xbd\xbd'
+2021-07-30 16:17:43,867 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752786, ADC_B: 16694717
+2021-07-30 16:17:44,868 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0Y\x00\xfe\xbd\x99U\x02'
+2021-07-30 16:17:44,868 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0Y\x00\xfe\xbd\x99'
+2021-07-30 16:17:44,869 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752729, ADC_B: 16694681
+2021-07-30 16:17:45,870 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa10\x00\xfe\xbdrU\x02'
+2021-07-30 16:17:45,870 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa10\x00\xfe\xbdr'
+2021-07-30 16:17:45,870 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752944, ADC_B: 16694642
+2021-07-30 16:17:46,871 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\x9c\x00\xfe\xbeMU\x02'
+2021-07-30 16:17:46,872 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\x9c\x00\xfe\xbeM'
+2021-07-30 16:17:46,872 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752796, ADC_B: 16694861
+2021-07-30 16:17:47,873 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xaf\x00\xfe\xbd\x8eU\x02'
+2021-07-30 16:17:47,874 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xaf\x00\xfe\xbd\x8e'
+2021-07-30 16:17:47,874 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752815, ADC_B: 16694670
+2021-07-30 16:17:48,875 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa02\x00\xfe\xbd\xd0U\x02'
+2021-07-30 16:17:48,876 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa02\x00\xfe\xbd\xd0'
+2021-07-30 16:17:48,876 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752690, ADC_B: 16694736
+2021-07-30 16:17:49,877 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0s\x00\xfe\xbd{U\x02'
+2021-07-30 16:17:49,878 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0s\x00\xfe\xbd{'
+2021-07-30 16:17:49,878 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752755, ADC_B: 16694651
+2021-07-30 16:17:50,879 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xc2\x00\xfe\xbd+U\x02'
+2021-07-30 16:17:50,879 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xc2\x00\xfe\xbd+'
+2021-07-30 16:17:50,879 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752834, ADC_B: 16694571
+2021-07-30 16:17:51,880 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x1a\x00\xfe\xbd\xb1U\x02'
+2021-07-30 16:17:51,881 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x1a\x00\xfe\xbd\xb1'
+2021-07-30 16:17:51,881 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752922, ADC_B: 16694705
+2021-07-30 16:17:52,882 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xd8\x00\xfe\xbe\x04U\x02'
+2021-07-30 16:17:52,882 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xd8\x00\xfe\xbe\x04'
+2021-07-30 16:17:52,882 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752856, ADC_B: 16694788
+2021-07-30 16:17:53,884 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xf0\x00\xfe\xbd\xdfU\x02'
+2021-07-30 16:17:53,884 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xf0\x00\xfe\xbd\xdf'
+2021-07-30 16:17:53,884 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752880, ADC_B: 16694751
+2021-07-30 16:17:54,885 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1%\x00\xfe\xbdpU\x02'
+2021-07-30 16:17:54,886 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1%\x00\xfe\xbdp'
+2021-07-30 16:17:54,886 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752933, ADC_B: 16694640
+2021-07-30 16:17:55,887 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\xee\x00\xfe\xbd\xd7U\x02'
+2021-07-30 16:17:55,888 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\xee\x00\xfe\xbd\xd7'
+2021-07-30 16:17:55,888 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753134, ADC_B: 16694743
+2021-07-30 16:17:56,889 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1q\x00\xfe\xbe!U\x02'
+2021-07-30 16:17:56,889 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1q\x00\xfe\xbe!'
+2021-07-30 16:17:56,889 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753009, ADC_B: 16694817
+2021-07-30 16:17:57,890 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x97\x00\xfe\xbd\xf5U\x02'
+2021-07-30 16:17:57,891 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x97\x00\xfe\xbd\xf5'
+2021-07-30 16:17:57,891 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753047, ADC_B: 16694773
+2021-07-30 16:17:58,892 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x90\x00\xfe\xbe!U\x02'
+2021-07-30 16:17:58,892 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x90\x00\xfe\xbe!'
+2021-07-30 16:17:58,893 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753040, ADC_B: 16694817
+2021-07-30 16:17:59,896 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\xbc\x00\xfe\xbe\xa1U\x02'
+2021-07-30 16:17:59,896 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\xbc\x00\xfe\xbe\xa1'
+2021-07-30 16:17:59,896 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753084, ADC_B: 16694945
+2021-07-30 16:18:00,897 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1v\x00\xfe\xbe}U\x02'
+2021-07-30 16:18:00,897 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1v\x00\xfe\xbe}'
+2021-07-30 16:18:00,898 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753014, ADC_B: 16694909
+2021-07-30 16:18:01,899 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x7f\x00\xfe\xbeoU\x02'
+2021-07-30 16:18:01,899 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x7f\x00\xfe\xbeo'
+2021-07-30 16:18:01,900 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753023, ADC_B: 16694895
+2021-07-30 16:18:02,901 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1>\x00\xfe\xbe\xcaU\x02'
+2021-07-30 16:18:02,902 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1>\x00\xfe\xbe\xca'
+2021-07-30 16:18:02,903 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752958, ADC_B: 16694986
+2021-07-30 16:18:03,904 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x90\x00\xfe\xbenU\x02'
+2021-07-30 16:18:03,905 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x90\x00\xfe\xben'
+2021-07-30 16:18:03,905 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753040, ADC_B: 16694894
+2021-07-30 16:18:04,906 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1y\x00\xfe\xbefU\x02'
+2021-07-30 16:18:04,907 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1y\x00\xfe\xbef'
+2021-07-30 16:18:04,907 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753017, ADC_B: 16694886
+2021-07-30 16:18:05,908 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1]\x00\xfe\xbe\x13U\x02'
+2021-07-30 16:18:05,908 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1]\x00\xfe\xbe\x13'
+2021-07-30 16:18:05,909 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752989, ADC_B: 16694803
+2021-07-30 16:18:06,910 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1D\x00\xfe\xbe\xc4U\x02'
+2021-07-30 16:18:06,910 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1D\x00\xfe\xbe\xc4'
+2021-07-30 16:18:06,911 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752964, ADC_B: 16694980
+2021-07-30 16:18:07,912 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa12\x00\xfe\xbeSU\x02'
+2021-07-30 16:18:07,912 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa12\x00\xfe\xbeS'
+2021-07-30 16:18:07,912 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752946, ADC_B: 16694867
+2021-07-30 16:18:08,914 - /dev/ttyUSB0 - INFO - Received b''
+2021-07-30 16:18:09,916 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xd8\x00\xfe\xbd\xebU\x02'
+2021-07-30 16:18:09,916 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xd8\x00\xfe\xbd\xeb'
+2021-07-30 16:18:09,916 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752856, ADC_B: 16694763
+2021-07-30 16:18:10,918 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa17\x00\xfe\xbe\xb4U\x02'
+2021-07-30 16:18:10,918 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa17\x00\xfe\xbe\xb4'
+2021-07-30 16:18:10,919 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752951, ADC_B: 16694964
+2021-07-30 16:18:11,920 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xb0\x00\xfe\xbeU\x00U\x02'
+2021-07-30 16:18:11,921 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xb0\x00\xfe\xbeU'
+2021-07-30 16:18:11,921 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752816, ADC_B: 16694869
+2021-07-30 16:18:12,922 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xd0\x00\xfe\xbe\xddU\x02'
+2021-07-30 16:18:12,922 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xd0\x00\xfe\xbe\xdd'
+2021-07-30 16:18:12,922 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752848, ADC_B: 16695005
+2021-07-30 16:18:13,923 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\x9a\x00\xfe\xbegU\x02'
+2021-07-30 16:18:13,924 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\x9a\x00\xfe\xbeg'
+2021-07-30 16:18:13,924 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752794, ADC_B: 16694887
+2021-07-30 16:18:14,925 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\x94\x00\xfe\xbesU\x02'
+2021-07-30 16:18:14,926 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\x94\x00\xfe\xbes'
+2021-07-30 16:18:14,926 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752788, ADC_B: 16694899
+2021-07-30 16:18:15,928 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\x82\x00\xfe\xbeXU\x02'
+2021-07-30 16:18:15,928 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\x82\x00\xfe\xbeX'
+2021-07-30 16:18:15,928 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752770, ADC_B: 16694872
+2021-07-30 16:18:16,930 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0r\x00\xfe\xbd\xffU\x02'
+2021-07-30 16:18:16,930 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0r\x00\xfe\xbd\xff'
+2021-07-30 16:18:16,930 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752754, ADC_B: 16694783
+2021-07-30 16:18:17,932 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0w\x00\xfe\xbd\xc3U\x02'
+2021-07-30 16:18:17,933 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0w\x00\xfe\xbd\xc3'
+2021-07-30 16:18:17,933 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752759, ADC_B: 16694723
+2021-07-30 16:18:18,934 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xbc\x00\xfe\xbeTU\x02'
+2021-07-30 16:18:18,934 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xbc\x00\xfe\xbeT'
+2021-07-30 16:18:18,935 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752828, ADC_B: 16694868
+2021-07-30 16:18:19,938 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xf0\x00\xfe\xbd\xffU\x02'
+2021-07-30 16:18:19,938 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xf0\x00\xfe\xbd\xff'
+2021-07-30 16:18:19,939 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752880, ADC_B: 16694783
+2021-07-30 16:18:20,942 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1D\x00\xfe\xbd\xb6U\x02'
+2021-07-30 16:18:20,942 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1D\x00\xfe\xbd\xb6'
+2021-07-30 16:18:20,943 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752964, ADC_B: 16694710
+2021-07-30 16:18:21,946 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xc1\x00\xfe\xbd\xd9U\x02'
+2021-07-30 16:18:21,946 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xc1\x00\xfe\xbd\xd9'
+2021-07-30 16:18:21,947 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752833, ADC_B: 16694745
+2021-07-30 16:18:22,949 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xce\x00\xfe\xbduU\x02'
+2021-07-30 16:18:22,950 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xce\x00\xfe\xbdu'
+2021-07-30 16:18:22,951 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752846, ADC_B: 16694645
+2021-07-30 16:18:23,953 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1F\x00\xfe\xbd\xe7U\x02'
+2021-07-30 16:18:23,954 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1F\x00\xfe\xbd\xe7'
+2021-07-30 16:18:23,955 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752966, ADC_B: 16694759
+2021-07-30 16:18:24,956 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xe4\x00\xfe\xbd\xeeU\x02'
+2021-07-30 16:18:24,957 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xe4\x00\xfe\xbd\xee'
+2021-07-30 16:18:24,958 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752868, ADC_B: 16694766
+2021-07-30 16:18:25,961 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x13\x00\xfe\xbd\xc1U\x02'
+2021-07-30 16:18:25,962 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x13\x00\xfe\xbd\xc1'
+2021-07-30 16:18:25,963 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752915, ADC_B: 16694721
+2021-07-30 16:18:26,965 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xee\x00\xfe\xbePU\x02'
+2021-07-30 16:18:26,966 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xee\x00\xfe\xbeP'
+2021-07-30 16:18:26,967 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752878, ADC_B: 16694864
+2021-07-30 16:18:27,969 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1r\x00\xfe\xbe\x13U\x02'
+2021-07-30 16:18:27,969 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1r\x00\xfe\xbe\x13'
+2021-07-30 16:18:27,970 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753010, ADC_B: 16694803
+2021-07-30 16:18:28,972 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xfc\x00\xfe\xbe+U\x02'
+2021-07-30 16:18:28,973 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xfc\x00\xfe\xbe+'
+2021-07-30 16:18:28,974 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752892, ADC_B: 16694827
+2021-07-30 16:18:29,976 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1+\x00\xfe\xbe"U\x02'
+2021-07-30 16:18:29,977 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1+\x00\xfe\xbe"'
+2021-07-30 16:18:29,978 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752939, ADC_B: 16694818
+2021-07-30 16:18:30,980 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1Z\x00\xfe\xbe\x1eU\x02'
+2021-07-30 16:18:30,981 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1Z\x00\xfe\xbe\x1e'
+2021-07-30 16:18:30,982 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752986, ADC_B: 16694814
+2021-07-30 16:18:31,984 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x86\x00\xfe\xbe<U\x02'
+2021-07-30 16:18:31,984 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x86\x00\xfe\xbe<'
+2021-07-30 16:18:31,984 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753030, ADC_B: 16694844
+2021-07-30 16:18:32,984 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x8f\x00\xfe\xbeZU\x02'
+2021-07-30 16:18:32,985 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x8f\x00\xfe\xbeZ'
+2021-07-30 16:18:32,986 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753039, ADC_B: 16694874
+2021-07-30 16:18:33,987 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x99\x00\xfe\xbe\x98U\x02'
+2021-07-30 16:18:33,988 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x99\x00\xfe\xbe\x98'
+2021-07-30 16:18:33,988 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753049, ADC_B: 16694936
+2021-07-30 16:18:34,989 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\xdb\x00\xfe\xbe\x86U\x02'
+2021-07-30 16:18:34,990 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\xdb\x00\xfe\xbe\x86'
+2021-07-30 16:18:34,991 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753115, ADC_B: 16694918
+2021-07-30 16:18:35,992 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x87\x00\xfe\xbe\xd5U\x02'
+2021-07-30 16:18:35,993 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x87\x00\xfe\xbe\xd5'
+2021-07-30 16:18:35,993 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753031, ADC_B: 16694997
+2021-07-30 16:18:36,996 - /dev/ttyUSB0 - INFO - Received b''
+2021-07-30 16:18:37,998 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1y\x00\xfe\xbexU\x02'
+2021-07-30 16:18:37,998 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1y\x00\xfe\xbex'
+2021-07-30 16:18:37,999 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753017, ADC_B: 16694904
+2021-07-30 16:18:39,001 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1N\x00\xfe\xbe\xc9U\x02'
+2021-07-30 16:18:39,002 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1N\x00\xfe\xbe\xc9'
+2021-07-30 16:18:39,003 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752974, ADC_B: 16694985
+2021-07-30 16:18:40,005 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1Y\x00\xfe\xbe\xb4U\x02'
+2021-07-30 16:18:40,006 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1Y\x00\xfe\xbe\xb4'
+2021-07-30 16:18:40,007 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752985, ADC_B: 16694964
+2021-07-30 16:18:41,010 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1<\x00\xfe\xbeGU\x02'
+2021-07-30 16:18:41,010 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1<\x00\xfe\xbeG'
+2021-07-30 16:18:41,011 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752956, ADC_B: 16694855
+2021-07-30 16:18:42,014 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\xa7\x00\xfe\xbe\xe6U\x02'
+2021-07-30 16:18:42,014 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\xa7\x00\xfe\xbe\xe6'
+2021-07-30 16:18:42,015 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753063, ADC_B: 16695014
+2021-07-30 16:18:43,018 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa11\x00\xfe\xbe\x89U\x02'
+2021-07-30 16:18:43,018 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa11\x00\xfe\xbe\x89'
+2021-07-30 16:18:43,019 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752945, ADC_B: 16694921
+2021-07-30 16:18:44,021 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1 \x00\xfe\xbe\xdfU\x02'
+2021-07-30 16:18:44,022 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1 \x00\xfe\xbe\xdf'
+2021-07-30 16:18:44,023 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752928, ADC_B: 16695007
+2021-07-30 16:18:45,026 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x0f\x00\xfe\xbe\xe4U\x02'
+2021-07-30 16:18:45,026 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x0f\x00\xfe\xbe\xe4'
+2021-07-30 16:18:45,027 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752911, ADC_B: 16695012
+2021-07-30 16:18:46,030 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x1c\x00\xfe\xbd\xf4U\x02'
+2021-07-30 16:18:46,031 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x1c\x00\xfe\xbd\xf4'
+2021-07-30 16:18:46,032 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752924, ADC_B: 16694772
+2021-07-30 16:18:47,034 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1?\x00\xfe\xbebU\x02'
+2021-07-30 16:18:47,034 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1?\x00\xfe\xbeb'
+2021-07-30 16:18:47,035 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752959, ADC_B: 16694882
+2021-07-30 16:18:48,037 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x14\x00\xfe\xbe\x93U\x02'
+2021-07-30 16:18:48,038 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x14\x00\xfe\xbe\x93'
+2021-07-30 16:18:48,038 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752916, ADC_B: 16694931
+2021-07-30 16:18:49,041 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1>\x00\xfe\xberU\x02'
+2021-07-30 16:18:49,041 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1>\x00\xfe\xber'
+2021-07-30 16:18:49,042 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752958, ADC_B: 16694898
+2021-07-30 16:18:50,045 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x03\x00\xfe\xbeEU\x02'
+2021-07-30 16:18:50,046 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x03\x00\xfe\xbeE'
+2021-07-30 16:18:50,047 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752899, ADC_B: 16694853
+2021-07-30 16:18:51,049 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\n\x00\xfe\xbeCU\x02'
+2021-07-30 16:18:51,050 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\n\x00\xfe\xbeC'
+2021-07-30 16:18:51,051 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752906, ADC_B: 16694851
+2021-07-30 16:18:52,053 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1+\x00\xfe\xbenU\x02'
+2021-07-30 16:18:52,054 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1+\x00\xfe\xben'
+2021-07-30 16:18:52,055 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752939, ADC_B: 16694894
+2021-07-30 16:18:53,057 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa14\x00\xfe\xbebU\x02'
+2021-07-30 16:18:53,059 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa14\x00\xfe\xbeb'
+2021-07-30 16:18:53,060 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752948, ADC_B: 16694882
+2021-07-30 16:18:54,062 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xaf\x00\xfe\xbe\xa0U\x02'
+2021-07-30 16:18:54,063 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xaf\x00\xfe\xbe\xa0'
+2021-07-30 16:18:54,063 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752815, ADC_B: 16694944
+2021-07-30 16:18:55,066 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x16\x00\xfe\xbehU\x02'
+2021-07-30 16:18:55,066 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x16\x00\xfe\xbeh'
+2021-07-30 16:18:55,067 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752918, ADC_B: 16694888
+2021-07-30 16:18:56,069 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xbd\x00\xfe\xbe,U\x02'
+2021-07-30 16:18:56,069 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xbd\x00\xfe\xbe,'
+2021-07-30 16:18:56,069 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752829, ADC_B: 16694828
+2021-07-30 16:18:57,070 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0{\x00\xfe\xbeuU\x02'
+2021-07-30 16:18:57,071 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0{\x00\xfe\xbeu'
+2021-07-30 16:18:57,072 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752763, ADC_B: 16694901
+2021-07-30 16:18:58,073 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xb1\x00\xfe\xbd\xf6U\x02'
+2021-07-30 16:18:58,075 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xb1\x00\xfe\xbd\xf6'
+2021-07-30 16:18:58,075 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752817, ADC_B: 16694774
+2021-07-30 16:18:59,077 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\x9f\xfd\x00\xfe\xbe\x1dU\x02'
+2021-07-30 16:18:59,079 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\x9f\xfd\x00\xfe\xbe\x1d'
+2021-07-30 16:18:59,080 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752637, ADC_B: 16694813
+2021-07-30 16:19:00,081 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0c\x00\xfe\xbe~U\x02'
+2021-07-30 16:19:00,081 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0c\x00\xfe\xbe~'
+2021-07-30 16:19:00,081 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752739, ADC_B: 16694910
+2021-07-30 16:19:01,082 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xa1\x00\xfe\xbe\x07U\x02'
+2021-07-30 16:19:01,083 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xa1\x00\xfe\xbe\x07'
+2021-07-30 16:19:01,083 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752801, ADC_B: 16694791
+2021-07-30 16:19:02,084 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0h\x00\xfe\xbe4U\x02'
+2021-07-30 16:19:02,084 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0h\x00\xfe\xbe4'
+2021-07-30 16:19:02,085 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752744, ADC_B: 16694836
+2021-07-30 16:19:03,086 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xb1\x00\xfe\xbe&U\x02'
+2021-07-30 16:19:03,086 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xb1\x00\xfe\xbe&'
+2021-07-30 16:19:03,087 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752817, ADC_B: 16694822
+2021-07-30 16:19:04,088 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xf6\x00\xfe\xbd\x9aU\x02'
+2021-07-30 16:19:04,088 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xf6\x00\xfe\xbd\x9a'
+2021-07-30 16:19:04,088 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752886, ADC_B: 16694682
+2021-07-30 16:19:05,088 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xd2\x00\xfe\xbd\xdeU\x02'
+2021-07-30 16:19:05,089 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xd2\x00\xfe\xbd\xde'
+2021-07-30 16:19:05,089 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752850, ADC_B: 16694750
+2021-07-30 16:19:06,090 - /dev/ttyUSB0 - INFO - Received b''
+2021-07-30 16:19:07,091 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xab\x00\xfe\xbeKU\x02'
+2021-07-30 16:19:07,092 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xab\x00\xfe\xbeK'
+2021-07-30 16:19:07,092 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752811, ADC_B: 16694859
+2021-07-30 16:19:08,094 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xee\x00\xfe\xbe\x14U\x02'
+2021-07-30 16:19:08,094 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xee\x00\xfe\xbe\x14'
+2021-07-30 16:19:08,095 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752878, ADC_B: 16694804
+2021-07-30 16:19:09,096 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x1b\x00\xfe\xbd\xe3U\x02'
+2021-07-30 16:19:09,096 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x1b\x00\xfe\xbd\xe3'
+2021-07-30 16:19:09,096 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752923, ADC_B: 16694755
+2021-07-30 16:19:10,098 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xd5\x00\xfe\xbd\xc9U\x02'
+2021-07-30 16:19:10,098 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xd5\x00\xfe\xbd\xc9'
+2021-07-30 16:19:10,098 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752853, ADC_B: 16694729
+2021-07-30 16:19:11,099 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xf4\x00\xfe\xbd\xaaU\x02'
+2021-07-30 16:19:11,100 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xf4\x00\xfe\xbd\xaa'
+2021-07-30 16:19:11,100 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752884, ADC_B: 16694698
+2021-07-30 16:19:12,101 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xfe\x00\xfe\xbd\xcfU\x02'
+2021-07-30 16:19:12,102 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xfe\x00\xfe\xbd\xcf'
+2021-07-30 16:19:12,102 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752894, ADC_B: 16694735
+2021-07-30 16:19:13,104 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\x85\x00\xfe\xbe\x17U\x02'
+2021-07-30 16:19:13,104 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\x85\x00\xfe\xbe\x17'
+2021-07-30 16:19:13,104 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752773, ADC_B: 16694807
+2021-07-30 16:19:14,106 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xb1\x00\xfe\xbe\x18U\x02'
+2021-07-30 16:19:14,106 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xb1\x00\xfe\xbe\x18'
+2021-07-30 16:19:14,106 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752817, ADC_B: 16694808
+2021-07-30 16:19:15,108 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xcb\x00\xfe\xbe\x17U\x02'
+2021-07-30 16:19:15,109 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xcb\x00\xfe\xbe\x17'
+2021-07-30 16:19:15,109 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752843, ADC_B: 16694807
+2021-07-30 16:19:16,112 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xad\x00\xfe\xbe\x05U\x02'
+2021-07-30 16:19:16,113 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xad\x00\xfe\xbe\x05'
+2021-07-30 16:19:16,114 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752813, ADC_B: 16694789
+2021-07-30 16:19:17,117 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0z\x00\xfe\xbd\x8fU\x02'
+2021-07-30 16:19:17,118 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0z\x00\xfe\xbd\x8f'
+2021-07-30 16:19:17,118 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752762, ADC_B: 16694671
+2021-07-30 16:19:18,120 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xa2\x00\xfe\xbe3U\x02'
+2021-07-30 16:19:18,121 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xa2\x00\xfe\xbe3'
+2021-07-30 16:19:18,121 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752802, ADC_B: 16694835
+2021-07-30 16:19:19,122 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xf4\x00\xfe\xbe"U\x02'
+2021-07-30 16:19:19,122 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xf4\x00\xfe\xbe"'
+2021-07-30 16:19:19,122 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752884, ADC_B: 16694818
+2021-07-30 16:19:20,124 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x0b\x00\xfe\xbd\xd8U\x02'
+2021-07-30 16:19:20,124 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x0b\x00\xfe\xbd\xd8'
+2021-07-30 16:19:20,124 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752907, ADC_B: 16694744
+2021-07-30 16:19:21,126 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xaf\x00\xfe\xbe\x1eU\x02'
+2021-07-30 16:19:21,126 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xaf\x00\xfe\xbe\x1e'
+2021-07-30 16:19:21,127 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752815, ADC_B: 16694814
+2021-07-30 16:19:22,128 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\x81\x00\xfe\xbe\x13U\x02'
+2021-07-30 16:19:22,129 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\x81\x00\xfe\xbe\x13'
+2021-07-30 16:19:22,129 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752769, ADC_B: 16694803
+2021-07-30 16:19:23,129 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xda\x00\xfe\xbe\x03U\x02'
+2021-07-30 16:19:23,130 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xda\x00\xfe\xbe\x03'
+2021-07-30 16:19:23,130 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752858, ADC_B: 16694787
+2021-07-30 16:19:24,131 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa13\x00\xfe\xbd\x9aU\x02'
+2021-07-30 16:19:24,131 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa13\x00\xfe\xbd\x9a'
+2021-07-30 16:19:24,131 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752947, ADC_B: 16694682
+2021-07-30 16:19:25,132 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1z\x00\xfe\xbd\xe5U\x02'
+2021-07-30 16:19:25,132 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1z\x00\xfe\xbd\xe5'
+2021-07-30 16:19:25,132 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753018, ADC_B: 16694757
+2021-07-30 16:19:26,133 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1&\x00\xfe\xbe|U\x02'
+2021-07-30 16:19:26,133 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1&\x00\xfe\xbe|'
+2021-07-30 16:19:26,133 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752934, ADC_B: 16694908
+2021-07-30 16:19:27,135 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1K\x00\xfe\xbe7U\x02'
+2021-07-30 16:19:27,136 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1K\x00\xfe\xbe7'
+2021-07-30 16:19:27,137 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752971, ADC_B: 16694839
+2021-07-30 16:19:28,138 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1 \x00\xfe\xbe\x85U\x02'
+2021-07-30 16:19:28,139 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1 \x00\xfe\xbe\x85'
+2021-07-30 16:19:28,139 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752928, ADC_B: 16694917
+2021-07-30 16:19:29,140 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1O\x00\xfe\xbe\x0eU\x02'
+2021-07-30 16:19:29,140 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1O\x00\xfe\xbe\x0e'
+2021-07-30 16:19:29,141 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752975, ADC_B: 16694798
+2021-07-30 16:19:30,143 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x86\x00\xfe\xbe/U\x02'
+2021-07-30 16:19:30,144 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x86\x00\xfe\xbe/'
+2021-07-30 16:19:30,145 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753030, ADC_B: 16694831
+2021-07-30 16:19:31,146 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa15\x00\xfe\xbeWU\x02'
+2021-07-30 16:19:31,147 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa15\x00\xfe\xbeW'
+2021-07-30 16:19:31,147 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752949, ADC_B: 16694871
+2021-07-30 16:19:32,148 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1^\x00\xfe\xbeMU\x02'
+2021-07-30 16:19:32,149 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1^\x00\xfe\xbeM'
+2021-07-30 16:19:32,150 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752990, ADC_B: 16694861
+2021-07-30 16:19:33,152 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa19\x00\xfe\xbeNU\x02'
+2021-07-30 16:19:33,152 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa19\x00\xfe\xbeN'
+2021-07-30 16:19:33,152 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752953, ADC_B: 16694862
+2021-07-30 16:19:34,157 - /dev/ttyUSB0 - INFO - Received b''
+2021-07-30 16:19:35,158 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1B\x00\xfe\xbe\x12U\x02'
+2021-07-30 16:19:35,159 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1B\x00\xfe\xbe\x12'
+2021-07-30 16:19:35,159 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752962, ADC_B: 16694802
+2021-07-30 16:19:36,161 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\t\x00\xfe\xbe\x14U\x02'
+2021-07-30 16:19:36,161 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\t\x00\xfe\xbe\x14'
+2021-07-30 16:19:36,162 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752905, ADC_B: 16694804
+2021-07-30 16:19:37,165 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa15\x00\xfe\xbe\x88U\x02'
+2021-07-30 16:19:37,165 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa15\x00\xfe\xbe\x88'
+2021-07-30 16:19:37,167 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752949, ADC_B: 16694920
+2021-07-30 16:19:38,170 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\xfc\x00\xfe\xbe\xd7U\x02'
+2021-07-30 16:19:38,170 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\xfc\x00\xfe\xbe\xd7'
+2021-07-30 16:19:38,171 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753148, ADC_B: 16694999
+2021-07-30 16:19:39,173 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1O\x00\xfe\xbe_U\x02'
+2021-07-30 16:19:39,173 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1O\x00\xfe\xbe_'
+2021-07-30 16:19:39,174 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752975, ADC_B: 16694879
+2021-07-30 16:19:40,176 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x80\x00\xfe\xbe9U\x02'
+2021-07-30 16:19:40,176 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x80\x00\xfe\xbe9'
+2021-07-30 16:19:40,177 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753024, ADC_B: 16694841
+2021-07-30 16:19:41,178 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x19\x00\xfe\xbe\xb6U\x02'
+2021-07-30 16:19:41,178 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x19\x00\xfe\xbe\xb6'
+2021-07-30 16:19:41,178 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752921, ADC_B: 16694966
+2021-07-30 16:19:42,180 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1h\x00\xfe\xbe\xb7U\x02'
+2021-07-30 16:19:42,180 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1h\x00\xfe\xbe\xb7'
+2021-07-30 16:19:42,181 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753000, ADC_B: 16694967
+2021-07-30 16:19:43,183 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa16\x00\xfe\xbf\x08U\x02'
+2021-07-30 16:19:43,183 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa16\x00\xfe\xbf\x08'
+2021-07-30 16:19:43,184 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752950, ADC_B: 16695048
+2021-07-30 16:19:44,187 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1+\x00\xfe\xbe\xd8U\x02'
+2021-07-30 16:19:44,188 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1+\x00\xfe\xbe\xd8'
+2021-07-30 16:19:44,188 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752939, ADC_B: 16695000
+2021-07-30 16:19:45,189 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1$\x00\xfe\xbe\x92U\x02'
+2021-07-30 16:19:45,189 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1$\x00\xfe\xbe\x92'
+2021-07-30 16:19:45,189 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752932, ADC_B: 16694930
+2021-07-30 16:19:46,190 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1Y\x00\xfe\xbd\xfaU\x02'
+2021-07-30 16:19:46,191 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1Y\x00\xfe\xbd\xfa'
+2021-07-30 16:19:46,191 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752985, ADC_B: 16694778
+2021-07-30 16:19:47,192 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1]\x00\xfe\xbeQU\x02'
+2021-07-30 16:19:47,192 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1]\x00\xfe\xbeQ'
+2021-07-30 16:19:47,192 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752989, ADC_B: 16694865
+2021-07-30 16:19:48,193 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x97\x00\xfe\xberU\x02'
+2021-07-30 16:19:48,193 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x97\x00\xfe\xber'
+2021-07-30 16:19:48,193 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753047, ADC_B: 16694898
+2021-07-30 16:19:49,194 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1Z\x00\xfe\xbe\xb5U\x02'
+2021-07-30 16:19:49,194 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1Z\x00\xfe\xbe\xb5'
+2021-07-30 16:19:49,194 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752986, ADC_B: 16694965
+2021-07-30 16:19:50,194 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1f\x00\xfe\xbe\xa1U\x02'
+2021-07-30 16:19:50,195 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1f\x00\xfe\xbe\xa1'
+2021-07-30 16:19:50,195 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752998, ADC_B: 16694945
+2021-07-30 16:19:51,195 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\xd3\x00\xfe\xbe\x8aU\x02'
+2021-07-30 16:19:51,196 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\xd3\x00\xfe\xbe\x8a'
+2021-07-30 16:19:51,196 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753107, ADC_B: 16694922
+2021-07-30 16:19:52,198 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1p\x00\xfe\xbf\x11U\x02'
+2021-07-30 16:19:52,198 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1p\x00\xfe\xbf\x11'
+2021-07-30 16:19:52,199 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753008, ADC_B: 16695057
+2021-07-30 16:19:53,199 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1Y\x00\xfe\xbe\xffU\x02'
+2021-07-30 16:19:53,199 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1Y\x00\xfe\xbe\xff'
+2021-07-30 16:19:53,199 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752985, ADC_B: 16695039
+2021-07-30 16:19:54,200 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1D\x00\xfe\xbe\xa8U\x02'
+2021-07-30 16:19:54,201 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1D\x00\xfe\xbe\xa8'
+2021-07-30 16:19:54,202 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752964, ADC_B: 16694952
+2021-07-30 16:19:55,204 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x00\x00\xfe\xbe\xd7U\x02'
+2021-07-30 16:19:55,204 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x00\x00\xfe\xbe\xd7'
+2021-07-30 16:19:55,204 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752896, ADC_B: 16694999
+2021-07-30 16:19:56,204 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xe0\x00\xfe\xbe\x9bU\x02'
+2021-07-30 16:19:56,204 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xe0\x00\xfe\xbe\x9b'
+2021-07-30 16:19:56,204 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752864, ADC_B: 16694939
+2021-07-30 16:19:57,205 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1;\x00\xfe\xbe\x8bU\x02'
+2021-07-30 16:19:57,205 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1;\x00\xfe\xbe\x8b'
+2021-07-30 16:19:57,205 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752955, ADC_B: 16694923
+2021-07-30 16:19:58,205 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xc0\x00\xfe\xbe\x89U\x02'
+2021-07-30 16:19:58,206 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xc0\x00\xfe\xbe\x89'
+2021-07-30 16:19:58,206 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752832, ADC_B: 16694921
+2021-07-30 16:19:59,207 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xa1\x00\xfe\xbevU\x02'
+2021-07-30 16:19:59,207 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xa1\x00\xfe\xbev'
+2021-07-30 16:19:59,208 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752801, ADC_B: 16694902
+2021-07-30 16:20:00,208 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xe1\x00\xfe\xbe\x9dU\x02'
+2021-07-30 16:20:00,209 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xe1\x00\xfe\xbe\x9d'
+2021-07-30 16:20:00,209 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752865, ADC_B: 16694941
+2021-07-30 16:20:01,209 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0?\x00\xfe\xbe:U\x02'
+2021-07-30 16:20:01,210 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0?\x00\xfe\xbe:'
+2021-07-30 16:20:01,210 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752703, ADC_B: 16694842
+2021-07-30 16:20:02,212 - /dev/ttyUSB0 - INFO - Received b''
+2021-07-30 16:20:03,213 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xa3\x00\xfe\xbekU\x02'
+2021-07-30 16:20:03,213 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xa3\x00\xfe\xbek'
+2021-07-30 16:20:03,213 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752803, ADC_B: 16694891
+2021-07-30 16:20:04,214 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x11\x00\xfe\xbe1U\x02'
+2021-07-30 16:20:04,214 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x11\x00\xfe\xbe1'
+2021-07-30 16:20:04,214 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752913, ADC_B: 16694833
+2021-07-30 16:20:05,216 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xb7\x00\xfe\xbe\xd1U\x02'
+2021-07-30 16:20:05,216 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xb7\x00\xfe\xbe\xd1'
+2021-07-30 16:20:05,217 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752823, ADC_B: 16694993
+2021-07-30 16:20:06,218 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xbf\x00\xfe\xbe!U\x02'
+2021-07-30 16:20:06,218 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xbf\x00\xfe\xbe!'
+2021-07-30 16:20:06,218 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752831, ADC_B: 16694817
+2021-07-30 16:20:07,221 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xc7\x00\xfe\xbe\x8fU\x02'
+2021-07-30 16:20:07,221 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xc7\x00\xfe\xbe\x8f'
+2021-07-30 16:20:07,221 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752839, ADC_B: 16694927
+2021-07-30 16:20:08,222 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0o\x00\xfe\xbe U\x02'
+2021-07-30 16:20:08,222 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0o\x00\xfe\xbe '
+2021-07-30 16:20:08,222 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752751, ADC_B: 16694816
+2021-07-30 16:20:09,223 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xae\x00\xfe\xbe\x8cU\x02'
+2021-07-30 16:20:09,224 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xae\x00\xfe\xbe\x8c'
+2021-07-30 16:20:09,224 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752814, ADC_B: 16694924
+2021-07-30 16:20:10,225 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0y\x00\xfe\xbe~U\x02'
+2021-07-30 16:20:10,226 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0y\x00\xfe\xbe~'
+2021-07-30 16:20:10,226 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752761, ADC_B: 16694910
+2021-07-30 16:20:11,229 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0m\x00\xfe\xbe\x01U\x02'
+2021-07-30 16:20:11,229 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0m\x00\xfe\xbe\x01'
+2021-07-30 16:20:11,229 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752749, ADC_B: 16694785
+2021-07-30 16:20:12,230 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\n\x00\xfe\xbeSU\x02'
+2021-07-30 16:20:12,231 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\n\x00\xfe\xbeS'
+2021-07-30 16:20:12,232 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752906, ADC_B: 16694867
+2021-07-30 16:20:13,235 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0D\x00\xfe\xbe\x9cU\x02'
+2021-07-30 16:20:13,235 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0D\x00\xfe\xbe\x9c'
+2021-07-30 16:20:13,235 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752708, ADC_B: 16694940
+2021-07-30 16:20:14,236 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\x15\x00\xfe\xbeZU\x02'
+2021-07-30 16:20:14,236 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\x15\x00\xfe\xbeZ'
+2021-07-30 16:20:14,236 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752661, ADC_B: 16694874
+2021-07-30 16:20:15,238 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0k\x00\xfe\xbd~U\x02'
+2021-07-30 16:20:15,238 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0k\x00\xfe\xbd~'
+2021-07-30 16:20:15,239 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752747, ADC_B: 16694654
+2021-07-30 16:20:16,241 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\x9c\x00\xfe\xbd\xd3U\x02'
+2021-07-30 16:20:16,242 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\x9c\x00\xfe\xbd\xd3'
+2021-07-30 16:20:16,243 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752796, ADC_B: 16694739
+2021-07-30 16:20:17,245 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\x9a\x00\xfe\xbd\xd6U\x02'
+2021-07-30 16:20:17,246 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\x9a\x00\xfe\xbd\xd6'
+2021-07-30 16:20:17,247 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752794, ADC_B: 16694742
+2021-07-30 16:20:18,249 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\x98\x00\xfe\xbd\xdfU\x02'
+2021-07-30 16:20:18,249 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\x98\x00\xfe\xbd\xdf'
+2021-07-30 16:20:18,250 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752792, ADC_B: 16694751
+2021-07-30 16:20:19,254 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\x85\x00\xfe\xbenU\x02'
+2021-07-30 16:20:19,254 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\x85\x00\xfe\xben'
+2021-07-30 16:20:19,254 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752773, ADC_B: 16694894
+2021-07-30 16:20:20,255 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\x86\x00\xfe\xbd\xc8U\x02'
+2021-07-30 16:20:20,255 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\x86\x00\xfe\xbd\xc8'
+2021-07-30 16:20:20,256 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752774, ADC_B: 16694728
+2021-07-30 16:20:21,257 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0L\x00\xfe\xbdxU\x02'
+2021-07-30 16:20:21,257 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0L\x00\xfe\xbdx'
+2021-07-30 16:20:21,257 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752716, ADC_B: 16694648
+2021-07-30 16:20:22,258 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0L\x00\xfe\xbd\x99U\x02'
+2021-07-30 16:20:22,259 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0L\x00\xfe\xbd\x99'
+2021-07-30 16:20:22,259 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752716, ADC_B: 16694681
+2021-07-30 16:20:23,260 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\x98\x00\xfe\xbe\x1eU\x02'
+2021-07-30 16:20:23,260 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\x98\x00\xfe\xbe\x1e'
+2021-07-30 16:20:23,261 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752792, ADC_B: 16694814
+2021-07-30 16:20:24,261 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\x88\x00\xfe\xbd\xa6U\x02'
+2021-07-30 16:20:24,262 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\x88\x00\xfe\xbd\xa6'
+2021-07-30 16:20:24,263 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752776, ADC_B: 16694694
+2021-07-30 16:20:25,264 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0~\x00\xfe\xbd!U\x02'
+2021-07-30 16:20:25,265 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0~\x00\xfe\xbd!'
+2021-07-30 16:20:25,266 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752766, ADC_B: 16694561
+2021-07-30 16:20:26,266 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xf3\x00\xfe\xbd\xe3U\x02'
+2021-07-30 16:20:26,266 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xf3\x00\xfe\xbd\xe3'
+2021-07-30 16:20:26,266 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752883, ADC_B: 16694755
+2021-07-30 16:20:27,267 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\x9a\x00\xfe\xbd\xdbU\x02'
+2021-07-30 16:20:27,268 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\x9a\x00\xfe\xbd\xdb'
+2021-07-30 16:20:27,268 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752794, ADC_B: 16694747
+2021-07-30 16:20:28,269 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xe4\x00\xfe\xbdiU\x02'
+2021-07-30 16:20:28,271 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xe4\x00\xfe\xbdi'
+2021-07-30 16:20:28,271 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752868, ADC_B: 16694633
+2021-07-30 16:20:29,272 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\x7f\x00\xfe\xbd\xe8U\x02'
+2021-07-30 16:20:29,272 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\x7f\x00\xfe\xbd\xe8'
+2021-07-30 16:20:29,272 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752767, ADC_B: 16694760
+2021-07-30 16:20:30,274 - /dev/ttyUSB0 - INFO - Received b''
+2021-07-30 16:20:31,276 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xae\x00\xfe\xbe\x08U\x02'
+2021-07-30 16:20:31,276 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xae\x00\xfe\xbe\x08'
+2021-07-30 16:20:31,276 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752814, ADC_B: 16694792
+2021-07-30 16:20:32,278 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0u\x00\xfe\xbd\xdfU\x02'
+2021-07-30 16:20:32,278 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0u\x00\xfe\xbd\xdf'
+2021-07-30 16:20:32,278 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752757, ADC_B: 16694751
+2021-07-30 16:20:33,279 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x1b\x00\xfe\xbd\xb2U\x02'
+2021-07-30 16:20:33,279 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x1b\x00\xfe\xbd\xb2'
+2021-07-30 16:20:33,279 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752923, ADC_B: 16694706
+2021-07-30 16:20:34,281 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xfa\x00\xfe\xbd\xc4U\x02'
+2021-07-30 16:20:34,281 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xfa\x00\xfe\xbd\xc4'
+2021-07-30 16:20:34,281 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752890, ADC_B: 16694724
+2021-07-30 16:20:35,282 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1#\x00\xfe\xbd\xd0U\x02'
+2021-07-30 16:20:35,282 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1#\x00\xfe\xbd\xd0'
+2021-07-30 16:20:35,282 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752931, ADC_B: 16694736
+2021-07-30 16:20:36,283 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa0\xee\x00\xfe\xbd\xb7U\x02'
+2021-07-30 16:20:36,283 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa0\xee\x00\xfe\xbd\xb7'
+2021-07-30 16:20:36,283 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752878, ADC_B: 16694711
+2021-07-30 16:20:37,284 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x19\x00\xfe\xbe\x1bU\x02'
+2021-07-30 16:20:37,284 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x19\x00\xfe\xbe\x1b'
+2021-07-30 16:20:37,284 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752921, ADC_B: 16694811
+2021-07-30 16:20:38,285 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x9d\x00\xfe\xbe*U\x02'
+2021-07-30 16:20:38,286 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x9d\x00\xfe\xbe*'
+2021-07-30 16:20:38,286 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753053, ADC_B: 16694826
+2021-07-30 16:20:39,287 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1K\x00\xfe\xbd\xabU\x02'
+2021-07-30 16:20:39,288 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1K\x00\xfe\xbd\xab'
+2021-07-30 16:20:39,288 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752971, ADC_B: 16694699
+2021-07-30 16:20:40,290 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x84\x00\xfe\xbd\x82U\x02'
+2021-07-30 16:20:40,290 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x84\x00\xfe\xbd\x82'
+2021-07-30 16:20:40,291 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753028, ADC_B: 16694658
+2021-07-30 16:20:41,292 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x83\x00\xfe\xbd\xefU\x02'
+2021-07-30 16:20:41,292 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x83\x00\xfe\xbd\xef'
+2021-07-30 16:20:41,292 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753027, ADC_B: 16694767
+2021-07-30 16:20:42,293 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa10\x00\xfe\xbe;U\x02'
+2021-07-30 16:20:42,294 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa10\x00\xfe\xbe;'
+2021-07-30 16:20:42,294 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752944, ADC_B: 16694843
+2021-07-30 16:20:43,295 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x95\x00\xfe\xbd\xbfU\x02'
+2021-07-30 16:20:43,295 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x95\x00\xfe\xbd\xbf'
+2021-07-30 16:20:43,296 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753045, ADC_B: 16694719
+2021-07-30 16:20:44,297 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\xba\x00\xfe\xbd\xf7U\x02'
+2021-07-30 16:20:44,298 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\xba\x00\xfe\xbd\xf7'
+2021-07-30 16:20:44,298 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753082, ADC_B: 16694775
+2021-07-30 16:20:45,300 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1h\x00\xfe\xbeIU\x02'
+2021-07-30 16:20:45,300 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1h\x00\xfe\xbeI'
+2021-07-30 16:20:45,300 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753000, ADC_B: 16694857
+2021-07-30 16:20:46,301 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1`\x00\xfe\xbe\x16U\x02'
+2021-07-30 16:20:46,301 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1`\x00\xfe\xbe\x16'
+2021-07-30 16:20:46,301 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752992, ADC_B: 16694806
+2021-07-30 16:20:47,302 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x84\x00\xfe\xbeCU\x02'
+2021-07-30 16:20:47,302 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x84\x00\xfe\xbeC'
+2021-07-30 16:20:47,304 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753028, ADC_B: 16694851
+2021-07-30 16:20:48,305 - /dev/ttyUSB0 - INFO - Received b"U\x01\x01\x00\xff\xa1!\x00\xfe\xbe'U\x02"
+2021-07-30 16:20:48,306 - /dev/ttyUSB0 - INFO - Cleaned bytes b"\x01\x00\xff\xa1!\x00\xfe\xbe'"
+2021-07-30 16:20:48,306 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752929, ADC_B: 16694823
+2021-07-30 16:20:49,307 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x9e\x00\xfe\xbe\x05U\x02'
+2021-07-30 16:20:49,308 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x9e\x00\xfe\xbe\x05'
+2021-07-30 16:20:49,308 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753054, ADC_B: 16694789
+2021-07-30 16:20:50,310 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1W\x00\xfe\xbe\x0eU\x02'
+2021-07-30 16:20:50,310 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1W\x00\xfe\xbe\x0e'
+2021-07-30 16:20:50,310 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752983, ADC_B: 16694798
+2021-07-30 16:20:51,311 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\r\x00\xfe\xbe\x07U\x02'
+2021-07-30 16:20:51,312 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\r\x00\xfe\xbe\x07'
+2021-07-30 16:20:51,313 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752909, ADC_B: 16694791
+2021-07-30 16:20:52,314 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x8c\x00\xfe\xbd\xceU\x02'
+2021-07-30 16:20:52,314 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x8c\x00\xfe\xbd\xce'
+2021-07-30 16:20:52,314 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753036, ADC_B: 16694734
+2021-07-30 16:20:53,315 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1Q\x00\xfe\xbe\x01U\x02'
+2021-07-30 16:20:53,316 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1Q\x00\xfe\xbe\x01'
+2021-07-30 16:20:53,316 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752977, ADC_B: 16694785
+2021-07-30 16:20:54,317 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1X\x00\xfe\xbeDU\x02'
+2021-07-30 16:20:54,318 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1X\x00\xfe\xbeD'
+2021-07-30 16:20:54,318 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752984, ADC_B: 16694852
+2021-07-30 16:20:55,319 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1b\x00\xfe\xbe\x17U\x02'
+2021-07-30 16:20:55,319 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1b\x00\xfe\xbe\x17'
+2021-07-30 16:20:55,319 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752994, ADC_B: 16694807
+2021-07-30 16:20:56,319 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\x86\x00\xfe\xbe\x1dU\x02'
+2021-07-30 16:20:56,320 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\x86\x00\xfe\xbe\x1d'
+2021-07-30 16:20:56,320 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753030, ADC_B: 16694813
+2021-07-30 16:20:57,320 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\xa7\x00\xfe\xbeZU\x02'
+2021-07-30 16:20:57,321 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\xa7\x00\xfe\xbeZ'
+2021-07-30 16:20:57,321 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753063, ADC_B: 16694874
+2021-07-30 16:20:58,323 - /dev/ttyUSB0 - INFO - Received b''
+2021-07-30 16:20:59,325 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\xba\x00\xfe\xbe\x85U\x02'
+2021-07-30 16:20:59,325 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\xba\x00\xfe\xbe\x85'
+2021-07-30 16:20:59,326 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753082, ADC_B: 16694917
+2021-07-30 16:21:00,328 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1\xcc\x00\xfe\xbe/U\x02'
+2021-07-30 16:21:00,329 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1\xcc\x00\xfe\xbe/'
+2021-07-30 16:21:00,329 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753100, ADC_B: 16694831
+2021-07-30 16:21:01,331 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1^\x00\xfe\xbd\xd9U\x02'
+2021-07-30 16:21:01,331 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1^\x00\xfe\xbd\xd9'
+2021-07-30 16:21:01,332 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752990, ADC_B: 16694745
+2021-07-30 16:21:02,334 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1w\x00\xfe\xbe}U\x02'
+2021-07-30 16:21:02,334 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1w\x00\xfe\xbe}'
+2021-07-30 16:21:02,336 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753015, ADC_B: 16694909
+2021-07-30 16:21:03,338 - /dev/ttyUSB0 - INFO - Received b'U\x01\x01\x00\xff\xa1S\x00\xfe\xbe\x15U\x02'
+2021-07-30 16:21:03,338 - /dev/ttyUSB0 - INFO - Cleaned bytes b'\x01\x00\xff\xa1S\x00\xfe\xbe\x15'
+2021-07-30 16:21:03,338 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752979, ADC_B: 16694805
+2021-07-30 16:21:05,351 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753031, ADC_B: 16694869
+2021-07-30 16:21:06,353 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753076, ADC_B: 16694815
+2021-07-30 16:21:07,354 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753102, ADC_B: 16694787
+2021-07-30 16:21:08,355 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753105, ADC_B: 16694940
+2021-07-30 16:21:09,357 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753022, ADC_B: 16694747
+2021-07-30 16:21:10,358 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753037, ADC_B: 16694765
+2021-07-30 16:21:11,359 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753030, ADC_B: 16694753
+2021-07-30 16:21:12,361 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753018, ADC_B: 16694767
+2021-07-30 16:21:13,362 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753018, ADC_B: 16694931
+2021-07-30 16:21:14,365 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752943, ADC_B: 16694780
+2021-07-30 16:21:15,366 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752985, ADC_B: 16694817
+2021-07-30 16:21:16,368 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752899, ADC_B: 16694820
+2021-07-30 16:21:17,369 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752923, ADC_B: 16694919
+2021-07-30 16:21:18,370 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752997, ADC_B: 16694827
+2021-07-30 16:21:19,373 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752872, ADC_B: 16694902
+2021-07-30 16:21:20,374 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752925, ADC_B: 16694888
+2021-07-30 16:21:21,374 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752946, ADC_B: 16694977
+2021-07-30 16:21:22,375 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752909, ADC_B: 16694934
+2021-07-30 16:21:23,376 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752903, ADC_B: 16694779
+2021-07-30 16:21:24,377 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752792, ADC_B: 16694876
+2021-07-30 16:21:25,380 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752877, ADC_B: 16694813
+2021-07-30 16:21:27,384 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752839, ADC_B: 16694964
+2021-07-30 16:21:28,387 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752833, ADC_B: 16694765
+2021-07-30 16:21:29,388 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752816, ADC_B: 16694787
+2021-07-30 16:21:30,389 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752770, ADC_B: 16694874
+2021-07-30 16:21:31,392 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752820, ADC_B: 16694785
+2021-07-30 16:21:32,395 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752780, ADC_B: 16694786
+2021-07-30 16:21:33,397 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752800, ADC_B: 16694665
+2021-07-30 16:21:34,399 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752782, ADC_B: 16694707
+2021-07-30 16:21:35,401 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752850, ADC_B: 16694803
+2021-07-30 16:21:36,403 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752888, ADC_B: 16694811
+2021-07-30 16:21:37,404 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752750, ADC_B: 16694581
+2021-07-30 16:21:38,405 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752753, ADC_B: 16694742
+2021-07-30 16:21:39,407 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752720, ADC_B: 16694575
+2021-07-30 16:21:40,409 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752712, ADC_B: 16694615
+2021-07-30 16:21:41,410 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752704, ADC_B: 16694723
+2021-07-30 16:21:42,411 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752710, ADC_B: 16694592
+2021-07-30 16:21:43,412 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752754, ADC_B: 16694652
+2021-07-30 16:21:44,413 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752576, ADC_B: 16694681
+2021-07-30 16:21:45,416 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752685, ADC_B: 16694790
+2021-07-30 16:21:46,417 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752685, ADC_B: 16694640
+2021-07-30 16:21:47,419 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752679, ADC_B: 16694580
+2021-07-30 16:21:48,420 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752676, ADC_B: 16694705
+2021-07-30 16:21:49,423 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752725, ADC_B: 16694725
+2021-07-30 16:21:50,423 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752704, ADC_B: 16694805
+2021-07-30 16:21:51,425 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752811, ADC_B: 16694866
+2021-07-30 16:21:52,426 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752715, ADC_B: 16694906
+2021-07-30 16:21:55,429 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752761, ADC_B: 16694620
+2021-07-30 16:21:56,430 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752788, ADC_B: 16694745
+2021-07-30 16:21:57,431 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752862, ADC_B: 16694539
+2021-07-30 16:21:58,433 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752689, ADC_B: 16694731
+2021-07-30 16:21:59,434 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752853, ADC_B: 16694694
+2021-07-30 16:22:00,436 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752802, ADC_B: 16694706
+2021-07-30 16:22:01,438 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752823, ADC_B: 16694742
+2021-07-30 16:22:02,440 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752773, ADC_B: 16694648
+2021-07-30 16:22:03,441 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752830, ADC_B: 16694700
+2021-07-30 16:22:04,443 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752834, ADC_B: 16694697
+2021-07-30 16:22:05,444 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752929, ADC_B: 16694616
+2021-07-30 16:22:06,446 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752910, ADC_B: 16694628
+2021-07-30 16:22:07,447 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752885, ADC_B: 16694631
+2021-07-30 16:22:08,449 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752827, ADC_B: 16694709
+2021-07-30 16:22:09,450 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752779, ADC_B: 16694791
+2021-07-30 16:22:10,451 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752836, ADC_B: 16694781
+2021-07-30 16:22:11,453 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752901, ADC_B: 16694726
+2021-07-30 16:22:12,454 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752831, ADC_B: 16694739
+2021-07-30 16:22:13,455 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752941, ADC_B: 16694783
+2021-07-30 16:22:14,457 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752948, ADC_B: 16694822
+2021-07-30 16:22:15,459 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752936, ADC_B: 16694815
+2021-07-30 16:22:16,460 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752862, ADC_B: 16694755
+2021-07-30 16:22:17,462 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752983, ADC_B: 16694729
+2021-07-30 16:22:18,464 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752959, ADC_B: 16694780
+2021-07-30 16:22:19,465 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752905, ADC_B: 16694672
+2021-07-30 16:22:20,465 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752885, ADC_B: 16694712
+2021-07-30 16:22:22,468 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752904, ADC_B: 16694630
+2021-07-30 16:22:23,470 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752964, ADC_B: 16694677
+2021-07-30 16:22:24,472 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752972, ADC_B: 16694729
+2021-07-30 16:22:25,474 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752991, ADC_B: 16694768
+2021-07-30 16:22:26,476 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753037, ADC_B: 16694781
+2021-07-30 16:22:27,477 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753004, ADC_B: 16694732
+2021-07-30 16:22:28,479 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753053, ADC_B: 16694802
+2021-07-30 16:22:29,480 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753020, ADC_B: 16694774
+2021-07-30 16:22:30,483 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752920, ADC_B: 16694878
+2021-07-30 16:22:31,485 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753002, ADC_B: 16694668
+2021-07-30 16:22:32,486 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753149, ADC_B: 16694792
+2021-07-30 16:22:33,488 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753036, ADC_B: 16694610
+2021-07-30 16:22:34,489 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752990, ADC_B: 16694738
+2021-07-30 16:22:35,490 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753180, ADC_B: 16694718
+2021-07-30 16:22:36,493 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753008, ADC_B: 16694875
+2021-07-30 16:22:37,495 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753063, ADC_B: 16694774
+2021-07-30 16:22:38,498 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753072, ADC_B: 16694800
+2021-07-30 16:22:39,499 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753048, ADC_B: 16694822
+2021-07-30 16:22:40,501 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753114, ADC_B: 16694807
+2021-07-30 16:22:41,502 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752958, ADC_B: 16694894
+2021-07-30 16:22:42,504 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753010, ADC_B: 16694915
+2021-07-30 16:22:43,505 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752942, ADC_B: 16694938
+2021-07-30 16:22:44,507 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752939, ADC_B: 16694804
+2021-07-30 16:22:45,508 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752813, ADC_B: 16694790
+2021-07-30 16:22:46,509 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752958, ADC_B: 16694763
+2021-07-30 16:22:47,510 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752892, ADC_B: 16694760
+2021-07-30 16:22:50,513 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752897, ADC_B: 16694716
+2021-07-30 16:22:51,514 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752943, ADC_B: 16694743
+2021-07-30 16:22:52,516 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752946, ADC_B: 16694734
+2021-07-30 16:22:53,518 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752898, ADC_B: 16694809
+2021-07-30 16:22:54,519 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752987, ADC_B: 16694689
+2021-07-30 16:22:55,521 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753120, ADC_B: 16694739
+2021-07-30 16:22:56,523 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753030, ADC_B: 16694730
+2021-07-30 16:22:57,525 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753035, ADC_B: 16694719
+2021-07-30 16:22:58,526 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753061, ADC_B: 16694803
+2021-07-30 16:22:59,527 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753020, ADC_B: 16694832
+2021-07-30 16:23:00,529 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753085, ADC_B: 16694820
+2021-07-30 16:23:01,531 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753127, ADC_B: 16694901
+2021-07-30 16:23:02,532 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753077, ADC_B: 16695053
+2021-07-30 16:23:03,534 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753071, ADC_B: 16694906
+2021-07-30 16:23:04,535 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753039, ADC_B: 16695031
+2021-07-30 16:23:05,536 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752930, ADC_B: 16695047
+2021-07-30 16:23:06,538 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752900, ADC_B: 16694904
+2021-07-30 16:23:07,541 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752868, ADC_B: 16694822
+2021-07-30 16:23:08,542 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752780, ADC_B: 16694889
+2021-07-30 16:23:09,543 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752760, ADC_B: 16694765
+2021-07-30 16:23:10,545 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752782, ADC_B: 16694773
+2021-07-30 16:23:11,547 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752899, ADC_B: 16694787
+2021-07-30 16:23:12,549 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752886, ADC_B: 16694753
+2021-07-30 16:23:13,551 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752914, ADC_B: 16694750
+2021-07-30 16:23:14,551 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752886, ADC_B: 16694714
+2021-07-30 16:23:15,552 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752964, ADC_B: 16694757
+2021-07-30 16:23:17,555 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752997, ADC_B: 16694826
+2021-07-30 16:23:18,557 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753004, ADC_B: 16694738
+2021-07-30 16:23:19,558 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752978, ADC_B: 16694855
+2021-07-30 16:23:20,560 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753029, ADC_B: 16694771
+2021-07-30 16:23:21,562 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752888, ADC_B: 16694942
+2021-07-30 16:23:22,563 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752897, ADC_B: 16694954
+2021-07-30 16:23:23,565 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753032, ADC_B: 16694853
+2021-07-30 16:23:24,566 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752946, ADC_B: 16694971
+2021-07-30 16:23:25,568 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752954, ADC_B: 16694883
+2021-07-30 16:23:26,569 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752901, ADC_B: 16694864
+2021-07-30 16:23:27,571 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752951, ADC_B: 16694859
+2021-07-30 16:23:28,572 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752862, ADC_B: 16694743
+2021-07-30 16:23:29,574 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752874, ADC_B: 16694804
+2021-07-30 16:23:30,576 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752845, ADC_B: 16694750
+2021-07-30 16:23:31,578 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752821, ADC_B: 16694720
+2021-07-30 16:23:32,580 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752815, ADC_B: 16694744
+2021-07-30 16:23:33,582 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752790, ADC_B: 16694835
+2021-07-30 16:23:34,585 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752811, ADC_B: 16694795
+2021-07-30 16:23:35,586 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752877, ADC_B: 16694663
+2021-07-30 16:23:36,588 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752940, ADC_B: 16694750
+2021-07-30 16:23:37,590 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752895, ADC_B: 16694740
+2021-07-30 16:23:38,595 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753071, ADC_B: 16694720
+2021-07-30 16:23:39,596 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753115, ADC_B: 16694840
+2021-07-30 16:23:40,597 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753063, ADC_B: 16694713
+2021-07-30 16:23:41,598 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753109, ADC_B: 16694805
+2021-07-30 16:23:42,599 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752998, ADC_B: 16695006
+2021-07-30 16:23:43,600 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753018, ADC_B: 16694838
+2021-07-30 16:23:45,602 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753025, ADC_B: 16694810
+2021-07-30 16:23:46,604 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752918, ADC_B: 16694905
+2021-07-30 16:23:47,606 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752840, ADC_B: 16694846
+2021-07-30 16:23:48,609 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752946, ADC_B: 16694800
+2021-07-30 16:23:49,611 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752847, ADC_B: 16694802
+2021-07-30 16:23:50,614 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752785, ADC_B: 16694776
+2021-07-30 16:23:51,616 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752778, ADC_B: 16694696
+2021-07-30 16:23:52,618 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752779, ADC_B: 16694756
+2021-07-30 16:23:53,620 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752864, ADC_B: 16694714
+2021-07-30 16:23:54,622 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752811, ADC_B: 16694788
+2021-07-30 16:23:55,625 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752872, ADC_B: 16694770
+2021-07-30 16:23:56,627 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753070, ADC_B: 16694721
+2021-07-30 16:23:57,630 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753040, ADC_B: 16694723
+2021-07-30 16:23:58,633 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752993, ADC_B: 16694831
+2021-07-30 16:23:59,635 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753018, ADC_B: 16694732
+2021-07-30 16:24:00,637 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752939, ADC_B: 16694867
+2021-07-30 16:24:01,639 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752955, ADC_B: 16694828
+2021-07-30 16:24:02,640 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752951, ADC_B: 16694772
+2021-07-30 16:24:03,642 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752873, ADC_B: 16695062
+2021-07-30 16:24:04,644 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752975, ADC_B: 16694840
+2021-07-30 16:24:05,645 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752841, ADC_B: 16694879
+2021-07-30 16:24:06,647 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752840, ADC_B: 16694832
+2021-07-30 16:24:07,648 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752720, ADC_B: 16694821
+2021-07-30 16:24:08,650 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752753, ADC_B: 16694818
+2021-07-30 16:24:09,651 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752813, ADC_B: 16694785
+2021-07-30 16:24:10,653 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752836, ADC_B: 16694741
+2021-07-30 16:24:11,654 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752873, ADC_B: 16694749
+2021-07-30 16:24:13,658 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752879, ADC_B: 16694845
+2021-07-30 16:24:14,660 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752966, ADC_B: 16694699
+2021-07-30 16:24:15,661 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752944, ADC_B: 16694794
+2021-07-30 16:24:16,664 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753005, ADC_B: 16694830
+2021-07-30 16:24:17,666 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753012, ADC_B: 16694932
+2021-07-30 16:24:18,668 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753075, ADC_B: 16694850
+2021-07-30 16:24:19,670 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752966, ADC_B: 16694893
+2021-07-30 16:24:20,672 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753005, ADC_B: 16694967
+2021-07-30 16:24:21,675 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753013, ADC_B: 16694865
+2021-07-30 16:24:22,677 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752994, ADC_B: 16694905
+2021-07-30 16:24:23,679 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752868, ADC_B: 16694882
+2021-07-30 16:24:24,680 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752946, ADC_B: 16694896
+2021-07-30 16:24:25,682 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752825, ADC_B: 16695017
+2021-07-30 16:24:26,683 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752906, ADC_B: 16694800
+2021-07-30 16:24:27,684 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752880, ADC_B: 16694774
+2021-07-30 16:24:28,686 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752722, ADC_B: 16694827
+2021-07-30 16:24:29,687 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752843, ADC_B: 16694798
+2021-07-30 16:24:30,688 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752783, ADC_B: 16694756
+2021-07-30 16:24:31,690 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752786, ADC_B: 16694747
+2021-07-30 16:24:32,691 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752850, ADC_B: 16694808
+2021-07-30 16:24:33,692 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752818, ADC_B: 16694802
+2021-07-30 16:24:34,693 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752993, ADC_B: 16694704
+2021-07-30 16:24:35,695 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752950, ADC_B: 16694826
+2021-07-30 16:24:36,698 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752990, ADC_B: 16694881
+2021-07-30 16:24:37,700 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753111, ADC_B: 16694791
+2021-07-30 16:24:38,702 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753028, ADC_B: 16694793
+2021-07-30 16:24:40,706 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753052, ADC_B: 16694831
+2021-07-30 16:24:41,709 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753063, ADC_B: 16694782
+2021-07-30 16:24:42,712 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752929, ADC_B: 16694818
+2021-07-30 16:24:43,714 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752904, ADC_B: 16694899
+2021-07-30 16:24:44,716 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752953, ADC_B: 16694932
+2021-07-30 16:24:45,719 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752912, ADC_B: 16694906
+2021-07-30 16:24:46,721 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752834, ADC_B: 16694906
+2021-07-30 16:24:47,722 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752953, ADC_B: 16694908
+2021-07-30 16:24:48,725 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752701, ADC_B: 16694922
+2021-07-30 16:24:49,726 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752872, ADC_B: 16694851
+2021-07-30 16:24:50,729 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752788, ADC_B: 16694755
+2021-07-30 16:24:51,731 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752846, ADC_B: 16694638
+2021-07-30 16:24:52,733 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752953, ADC_B: 16694716
+2021-07-30 16:24:53,734 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752849, ADC_B: 16694724
+2021-07-30 16:24:54,735 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752942, ADC_B: 16694775
+2021-07-30 16:24:55,737 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752944, ADC_B: 16694770
+2021-07-30 16:24:56,740 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752932, ADC_B: 16694741
+2021-07-30 16:24:57,742 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752961, ADC_B: 16694861
+2021-07-30 16:24:58,744 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752946, ADC_B: 16694864
+2021-07-30 16:24:59,745 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752990, ADC_B: 16694917
+2021-07-30 16:25:00,747 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752998, ADC_B: 16694999
+2021-07-30 16:25:01,748 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752919, ADC_B: 16694934
+2021-07-30 16:25:02,749 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752879, ADC_B: 16694992
+2021-07-30 16:25:03,750 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752956, ADC_B: 16695042
+2021-07-30 16:25:04,752 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752986, ADC_B: 16694885
+2021-07-30 16:25:05,753 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752921, ADC_B: 16694924
+2021-07-30 16:25:06,754 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752853, ADC_B: 16694949
+2021-07-30 16:25:08,757 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752760, ADC_B: 16694835
+2021-07-30 16:25:09,759 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752903, ADC_B: 16694835
+2021-07-30 16:25:10,761 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752828, ADC_B: 16694922
+2021-07-30 16:25:11,762 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752740, ADC_B: 16694847
+2021-07-30 16:25:12,764 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752805, ADC_B: 16694827
+2021-07-30 16:25:13,765 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752871, ADC_B: 16694973
+2021-07-30 16:25:14,766 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752842, ADC_B: 16694955
+2021-07-30 16:25:15,768 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752817, ADC_B: 16694912
+2021-07-30 16:25:16,769 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752907, ADC_B: 16694852
+2021-07-30 16:25:17,771 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752951, ADC_B: 16694860
+2021-07-30 16:25:18,773 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753027, ADC_B: 16694897
+2021-07-30 16:25:19,775 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753101, ADC_B: 16694924
+2021-07-30 16:25:20,776 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752987, ADC_B: 16694921
+2021-07-30 16:25:21,778 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752921, ADC_B: 16694952
+2021-07-30 16:25:22,779 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752840, ADC_B: 16694969
+2021-07-30 16:25:23,781 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752922, ADC_B: 16695020
+2021-07-30 16:25:24,783 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752843, ADC_B: 16694959
+2021-07-30 16:25:25,784 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752872, ADC_B: 16694912
+2021-07-30 16:25:26,785 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752890, ADC_B: 16694934
+2021-07-30 16:25:27,788 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752837, ADC_B: 16694910
+2021-07-30 16:25:28,790 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752642, ADC_B: 16694829
+2021-07-30 16:25:29,792 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752631, ADC_B: 16694824
+2021-07-30 16:25:30,794 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752849, ADC_B: 16694903
+2021-07-30 16:25:31,795 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752828, ADC_B: 16694782
+2021-07-30 16:25:32,796 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752777, ADC_B: 16694897
+2021-07-30 16:25:33,797 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752725, ADC_B: 16694802
+2021-07-30 16:25:34,798 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752856, ADC_B: 16694852
+2021-07-30 16:25:36,801 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752825, ADC_B: 16694914
+2021-07-30 16:25:37,802 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752786, ADC_B: 16694958
+2021-07-30 16:25:38,804 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752843, ADC_B: 16694809
+2021-07-30 16:25:39,806 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752953, ADC_B: 16694916
+2021-07-30 16:25:40,808 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752904, ADC_B: 16694842
+2021-07-30 16:25:41,809 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752951, ADC_B: 16694920
+2021-07-30 16:25:42,811 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753015, ADC_B: 16694844
+2021-07-30 16:25:43,812 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752996, ADC_B: 16694972
+2021-07-30 16:25:44,814 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752975, ADC_B: 16694912
+2021-07-30 16:25:45,816 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753023, ADC_B: 16694944
+2021-07-30 16:25:46,818 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753057, ADC_B: 16695010
+2021-07-30 16:25:47,821 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752947, ADC_B: 16694914
+2021-07-30 16:25:48,823 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752946, ADC_B: 16695029
+2021-07-30 16:25:49,824 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752853, ADC_B: 16694965
+2021-07-30 16:25:50,826 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752927, ADC_B: 16694966
+2021-07-30 16:25:51,827 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752852, ADC_B: 16694924
+2021-07-30 16:25:52,829 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752902, ADC_B: 16695054
+2021-07-30 16:25:53,830 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752852, ADC_B: 16694914
+2021-07-30 16:25:54,831 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752744, ADC_B: 16695032
+2021-07-30 16:25:55,832 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752892, ADC_B: 16694871
+2021-07-30 16:25:56,834 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752741, ADC_B: 16694968
+2021-07-30 16:25:57,835 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752747, ADC_B: 16694916
+2021-07-30 16:25:58,836 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752659, ADC_B: 16694839
+2021-07-30 16:25:59,837 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752761, ADC_B: 16694835
+2021-07-30 16:26:00,838 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752808, ADC_B: 16694962
+2021-07-30 16:26:01,839 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752861, ADC_B: 16694826
+2021-07-30 16:26:03,841 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752788, ADC_B: 16694954
+2021-07-30 16:26:04,842 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752952, ADC_B: 16694946
+2021-07-30 16:26:05,844 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752903, ADC_B: 16694915
+2021-07-30 16:26:06,846 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752984, ADC_B: 16694810
+2021-07-30 16:26:07,847 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753008, ADC_B: 16694829
+2021-07-30 16:26:08,849 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753082, ADC_B: 16695007
+2021-07-30 16:26:09,851 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752973, ADC_B: 16694955
+2021-07-30 16:26:10,852 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752977, ADC_B: 16695020
+2021-07-30 16:26:11,854 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752963, ADC_B: 16694990
+2021-07-30 16:26:12,856 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752946, ADC_B: 16694872
+2021-07-30 16:26:13,857 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752769, ADC_B: 16694914
+2021-07-30 16:26:14,859 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752789, ADC_B: 16694862
+2021-07-30 16:26:15,860 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752812, ADC_B: 16694921
+2021-07-30 16:26:16,862 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752699, ADC_B: 16694869
+2021-07-30 16:26:17,863 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752742, ADC_B: 16694799
+2021-07-30 16:26:18,865 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752719, ADC_B: 16694721
+2021-07-30 16:26:19,866 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752826, ADC_B: 16694786
+2021-07-30 16:26:20,867 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752905, ADC_B: 16694742
+2021-07-30 16:26:21,868 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752992, ADC_B: 16694832
+2021-07-30 16:26:22,870 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752961, ADC_B: 16694764
+2021-07-30 16:26:23,871 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752930, ADC_B: 16694865
+2021-07-30 16:26:24,873 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752941, ADC_B: 16694861
+2021-07-30 16:26:25,875 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753007, ADC_B: 16694883
+2021-07-30 16:26:26,876 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753014, ADC_B: 16695030
+2021-07-30 16:26:27,877 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752900, ADC_B: 16694965
+2021-07-30 16:26:28,878 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752929, ADC_B: 16694947
+2021-07-30 16:26:29,879 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752866, ADC_B: 16694811
+2021-07-30 16:26:31,882 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752888, ADC_B: 16694800
+2021-07-30 16:26:32,884 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752823, ADC_B: 16694794
+2021-07-30 16:26:33,886 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752723, ADC_B: 16694781
+2021-07-30 16:26:34,888 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752658, ADC_B: 16694739
+2021-07-30 16:26:35,889 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752736, ADC_B: 16694872
+2021-07-30 16:26:36,891 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752792, ADC_B: 16694769
+2021-07-30 16:26:37,893 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752878, ADC_B: 16694902
+2021-07-30 16:26:38,894 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752940, ADC_B: 16694844
+2021-07-30 16:26:39,896 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752907, ADC_B: 16694783
+2021-07-30 16:26:40,897 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752820, ADC_B: 16694996
+2021-07-30 16:26:41,899 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752949, ADC_B: 16694975
+2021-07-30 16:26:42,900 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753087, ADC_B: 16694924
+2021-07-30 16:26:43,903 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752971, ADC_B: 16694892
+2021-07-30 16:26:44,905 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753003, ADC_B: 16694896
+2021-07-30 16:26:45,906 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752985, ADC_B: 16694872
+2021-07-30 16:26:46,908 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752989, ADC_B: 16694862
+2021-07-30 16:26:47,909 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752969, ADC_B: 16694901
+2021-07-30 16:26:48,911 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752914, ADC_B: 16694926
+2021-07-30 16:26:49,912 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752954, ADC_B: 16694901
+2021-07-30 16:26:50,913 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752928, ADC_B: 16694859
+2021-07-30 16:26:51,914 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752959, ADC_B: 16694936
+2021-07-30 16:26:52,915 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752891, ADC_B: 16694906
+2021-07-30 16:26:53,917 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752973, ADC_B: 16694921
+2021-07-30 16:26:54,919 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752818, ADC_B: 16694997
+2021-07-30 16:26:55,920 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752858, ADC_B: 16695010
+2021-07-30 16:26:56,922 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752824, ADC_B: 16694959
+2021-07-30 16:26:58,926 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752888, ADC_B: 16695080
+2021-07-30 16:26:59,929 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752827, ADC_B: 16694848
+2021-07-30 16:27:00,932 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752839, ADC_B: 16694912
+2021-07-30 16:27:01,934 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752786, ADC_B: 16694743
+2021-07-30 16:27:02,937 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752764, ADC_B: 16694945
+2021-07-30 16:27:03,940 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752677, ADC_B: 16694837
+2021-07-30 16:27:04,942 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752771, ADC_B: 16694822
+2021-07-30 16:27:05,945 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752739, ADC_B: 16694766
+2021-07-30 16:27:06,948 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752749, ADC_B: 16694802
+2021-07-30 16:27:07,949 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752854, ADC_B: 16694826
+2021-07-30 16:27:08,953 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752844, ADC_B: 16694677
+2021-07-30 16:27:09,955 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752973, ADC_B: 16694990
+2021-07-30 16:27:10,956 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752854, ADC_B: 16694888
+2021-07-30 16:27:11,958 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752952, ADC_B: 16694870
+2021-07-30 16:27:12,959 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753020, ADC_B: 16694883
+2021-07-30 16:27:13,960 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753040, ADC_B: 16694809
+2021-07-30 16:27:14,961 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753040, ADC_B: 16694827
+2021-07-30 16:27:15,962 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753088, ADC_B: 16694755
+2021-07-30 16:27:16,964 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753006, ADC_B: 16694853
+2021-07-30 16:27:17,965 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753065, ADC_B: 16694886
+2021-07-30 16:27:18,967 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752937, ADC_B: 16694884
+2021-07-30 16:27:19,968 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753029, ADC_B: 16694897
+2021-07-30 16:27:20,970 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753047, ADC_B: 16694989
+2021-07-30 16:27:21,971 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753099, ADC_B: 16694958
+2021-07-30 16:27:22,972 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753019, ADC_B: 16694828
+2021-07-30 16:27:23,974 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752966, ADC_B: 16694912
+2021-07-30 16:27:24,976 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753104, ADC_B: 16694907
+2021-07-30 16:27:26,978 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753075, ADC_B: 16694984
+2021-07-30 16:27:27,979 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753073, ADC_B: 16694960
+2021-07-30 16:27:28,980 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753064, ADC_B: 16694946
+2021-07-30 16:27:29,982 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752907, ADC_B: 16695054
+2021-07-30 16:27:30,983 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752937, ADC_B: 16694877
+2021-07-30 16:27:31,984 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752973, ADC_B: 16694865
+2021-07-30 16:27:32,986 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752891, ADC_B: 16694831
+2021-07-30 16:27:33,987 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752886, ADC_B: 16694905
+2021-07-30 16:27:34,988 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752742, ADC_B: 16694808
+2021-07-30 16:27:35,989 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752978, ADC_B: 16694921
+2021-07-30 16:27:36,990 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752857, ADC_B: 16694879
+2021-07-30 16:27:37,991 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752872, ADC_B: 16694902
+2021-07-30 16:27:38,992 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752751, ADC_B: 16694837
+2021-07-30 16:27:39,993 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752807, ADC_B: 16694883
+2021-07-30 16:27:40,994 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752814, ADC_B: 16694905
+2021-07-30 16:27:41,995 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752711, ADC_B: 16694981
+2021-07-30 16:27:42,995 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752796, ADC_B: 16694749
+2021-07-30 16:27:43,997 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752752, ADC_B: 16694869
+2021-07-30 16:27:44,997 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752722, ADC_B: 16694739
+2021-07-30 16:27:45,998 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752782, ADC_B: 16694716
+2021-07-30 16:27:46,999 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752884, ADC_B: 16694660
+2021-07-30 16:27:48,000 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752916, ADC_B: 16694782
+2021-07-30 16:27:49,001 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752911, ADC_B: 16694873
+2021-07-30 16:27:50,002 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752886, ADC_B: 16694783
+2021-07-30 16:27:51,002 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752962, ADC_B: 16694814
+2021-07-30 16:27:52,003 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753019, ADC_B: 16694818
+2021-07-30 16:27:54,006 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753055, ADC_B: 16694802
+2021-07-30 16:27:55,008 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753080, ADC_B: 16694865
+2021-07-30 16:27:56,010 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752976, ADC_B: 16694877
+2021-07-30 16:27:57,012 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752912, ADC_B: 16694973
+2021-07-30 16:27:58,014 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752867, ADC_B: 16694897
+2021-07-30 16:27:59,016 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753025, ADC_B: 16694915
+2021-07-30 16:28:00,017 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752884, ADC_B: 16694939
+2021-07-30 16:28:01,019 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752845, ADC_B: 16694925
+2021-07-30 16:28:02,020 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752807, ADC_B: 16694908
+2021-07-30 16:28:03,022 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752795, ADC_B: 16694985
+2021-07-30 16:28:04,023 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752796, ADC_B: 16694909
+2021-07-30 16:28:05,025 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752832, ADC_B: 16694835
+2021-07-30 16:28:06,026 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752829, ADC_B: 16694818
+2021-07-30 16:28:07,027 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752876, ADC_B: 16694749
+2021-07-30 16:28:08,029 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752956, ADC_B: 16694768
+2021-07-30 16:28:09,030 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752929, ADC_B: 16694761
+2021-07-30 16:28:10,031 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752966, ADC_B: 16694857
+2021-07-30 16:28:11,032 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753040, ADC_B: 16694808
+2021-07-30 16:28:12,033 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753044, ADC_B: 16694819
+2021-07-30 16:28:13,034 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753147, ADC_B: 16694759
+2021-07-30 16:28:14,035 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753070, ADC_B: 16694946
+2021-07-30 16:28:15,036 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753076, ADC_B: 16694924
+2021-07-30 16:28:16,037 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752968, ADC_B: 16695025
+2021-07-30 16:28:17,037 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752970, ADC_B: 16695023
+2021-07-30 16:28:18,038 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752872, ADC_B: 16694876
+2021-07-30 16:28:19,039 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752905, ADC_B: 16694932
+2021-07-30 16:28:20,041 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752922, ADC_B: 16694859
+2021-07-30 16:28:22,043 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752844, ADC_B: 16694867
+2021-07-30 16:28:23,044 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752949, ADC_B: 16694707
+2021-07-30 16:28:24,046 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752761, ADC_B: 16694773
+2021-07-30 16:28:25,049 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752853, ADC_B: 16694796
+2021-07-30 16:28:26,050 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752817, ADC_B: 16694750
+2021-07-30 16:28:27,051 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752798, ADC_B: 16694738
+2021-07-30 16:28:28,052 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752867, ADC_B: 16694795
+2021-07-30 16:28:29,054 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752949, ADC_B: 16694738
+2021-07-30 16:28:30,055 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753053, ADC_B: 16694803
+2021-07-30 16:28:31,056 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753090, ADC_B: 16694875
+2021-07-30 16:28:32,057 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753117, ADC_B: 16694790
+2021-07-30 16:28:33,059 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753052, ADC_B: 16694934
+2021-07-30 16:28:34,060 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753007, ADC_B: 16695021
+2021-07-30 16:28:37,377 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752825, ADC_B: 16694907
+2021-07-30 16:28:38,380 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752864, ADC_B: 16694674
+2021-07-30 16:28:39,381 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752705, ADC_B: 16694756
+2021-07-30 16:28:40,382 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752759, ADC_B: 16694846
+2021-07-30 16:28:41,383 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752794, ADC_B: 16694762
+2021-07-30 16:28:42,385 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752796, ADC_B: 16694733
+2021-07-30 16:28:43,387 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752815, ADC_B: 16694706
+2021-07-30 16:28:44,390 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752950, ADC_B: 16694720
+2021-07-30 16:28:45,392 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753021, ADC_B: 16694898
+2021-07-30 16:28:46,393 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753061, ADC_B: 16694853
+2021-07-30 16:28:47,395 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753112, ADC_B: 16694841
+2021-07-30 16:28:48,396 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753040, ADC_B: 16694892
+2021-07-30 16:28:49,397 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753019, ADC_B: 16694997
+2021-07-30 16:28:50,399 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752924, ADC_B: 16694872
+2021-07-30 16:28:51,401 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752980, ADC_B: 16694885
+2021-07-30 16:28:52,403 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752939, ADC_B: 16694871
+2021-07-30 16:28:53,404 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752955, ADC_B: 16694819
+2021-07-30 16:28:54,405 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753047, ADC_B: 16694882
+2021-07-30 16:28:55,406 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752750, ADC_B: 16694918
+2021-07-30 16:28:57,409 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752912, ADC_B: 16694848
+2021-07-30 16:28:58,411 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752832, ADC_B: 16694704
+2021-07-30 16:28:59,413 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752737, ADC_B: 16694670
+2021-07-30 16:29:00,414 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752742, ADC_B: 16694735
+2021-07-30 16:29:01,415 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752839, ADC_B: 16694632
+2021-07-30 16:29:02,417 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752845, ADC_B: 16694665
+2021-07-30 16:29:03,418 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752915, ADC_B: 16694653
+2021-07-30 16:29:04,421 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752869, ADC_B: 16694673
+2021-07-30 16:29:05,424 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752950, ADC_B: 16694779
+2021-07-30 16:29:06,426 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752892, ADC_B: 16694714
+2021-07-30 16:29:07,428 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753010, ADC_B: 16694729
+2021-07-30 16:29:08,430 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753029, ADC_B: 16694725
+2021-07-30 16:29:09,432 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753042, ADC_B: 16694717
+2021-07-30 16:29:10,432 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753129, ADC_B: 16694859
+2021-07-30 16:29:11,433 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753019, ADC_B: 16694731
+2021-07-30 16:29:12,435 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753085, ADC_B: 16694636
+2021-07-30 16:29:13,436 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753042, ADC_B: 16694700
+2021-07-30 16:29:14,438 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752981, ADC_B: 16694819
+2021-07-30 16:29:15,439 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752941, ADC_B: 16694766
+2021-07-30 16:29:16,440 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16753007, ADC_B: 16694736
+2021-07-30 16:29:17,441 - /dev/ttyUSB0 - INFO - Decrypt data:  CMD: 1, ADC_A: 16752973, ADC_B: 16694811
+2021-07-30 16:34:48,084 - /dev/ttyUSB0 - ERROR - [Errno 2] could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'
