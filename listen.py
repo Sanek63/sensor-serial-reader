@@ -6,23 +6,11 @@ import serial
 from logger import get_logger
 from csv import DictWriter
 
-logger = None
-csv_file = None
 
 CSV_FIELDNAMES = ['cmd', 'adc_a', 'adc_b', 'created_at']
 
-message = b""
 
-ts_start = None
-last_byte = None
-
-
-flag = False
-
-
-def write_log(ts):
-    global ts_start, logger, message, csv_file
-
+def write_log(ts, message, csv_path, ts_start):
     message.replace(b'\x55\x00', b'\x55')
     cmd = int.from_bytes(bytes(message[:1]), byteorder='big')
     adc_a = int.from_bytes(bytes(message[1:5]), byteorder='big')
@@ -33,7 +21,7 @@ def write_log(ts):
     created_at = ts - ts_start
 
     print(''.join(r'\x'+hex(letter)[2:] for letter in message), cmd, adc_a, adc_b)
-    with open(csv_file, 'a+') as file:
+    with open(csv_path, 'a+') as file:
         csv_writer = DictWriter(file, CSV_FIELDNAMES, delimiter=';')
         csv_writer.writerow({
                 'cmd': cmd,
@@ -44,33 +32,14 @@ def write_log(ts):
         )
 
 
-def serial_byte_receiver(data_byte):
-    global message, last_byte, ts_start, flag
-
-    if last_byte == b'\x55':
-        if data_byte == b'\x01':
-            message = b''
-            flag = True
-
-        elif flag and data_byte == b'\x02':
-            ts = int(datetime.datetime.utcnow().timestamp() * 1000)
-            if ts_start is None:
-                ts_start = ts
-
-            write_log(ts=ts)
-            message = b''
-
-    else:
-        if data_byte != '\x55':
-            message += data_byte
-
-    last_byte = data_byte
-
-
 def listen(port, log_path, csv_path):
-    global message, ts_start, logger, csv_file
+    message = b""
 
-    csv_file = csv_path
+    ts_start = None
+    last_byte = None
+
+    flag = False
+
     logger = get_logger(port, log_path)
     logger.debug("Start script")
 
@@ -83,4 +52,21 @@ def listen(port, log_path, csv_path):
     while True:
         b = ser.read(1)
         if b:
-            serial_byte_receiver(b)
+            if last_byte == b'\x55':
+                if b == b'\x01':
+                    message = b''
+                    flag = True
+
+                elif flag and b == b'\x02':
+                    ts = int(datetime.datetime.utcnow().timestamp() * 1000)
+                    if ts_start is None:
+                        ts_start = ts
+
+                    write_log(ts=ts, message=message, ts_start=ts_start, csv_path=csv_path)
+                    message = b''
+
+            else:
+                if b != '\x55':
+                    message += b
+
+            last_byte = b
