@@ -53,6 +53,9 @@ def listen(port, log_path, csv_path):
         b = ser.read(1)
         if b:
             if last_byte == b'\x55':
+                if b == b'\x00':
+                    message += b'\x55'
+
                 if b == b'\x01':
                     message = b''
                     flag = True
