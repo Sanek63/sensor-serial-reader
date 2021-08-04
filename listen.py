@@ -7,10 +7,10 @@ from logger import get_logger
 from csv import DictWriter
 
 
-CSV_FIELDNAMES = ['cmd', 'adc_a', 'adc_b', 'created_at']
+CSV_FIELDNAMES = ['cmd', 'adc_a', 'adc_b', 'created_at', 'diff']
 
 
-def write_log(ts, message, csv_path, ts_start):
+def write_log(ts, message, csv_path, ts_start, fv):
     message.replace(b'\x55\x00', b'\x55')
     cmd = int.from_bytes(bytes(message[:1]), byteorder='big')
     adc_a = int.from_bytes(bytes(message[1:5]), byteorder='big')
@@ -27,7 +27,8 @@ def write_log(ts, message, csv_path, ts_start):
                 'cmd': cmd,
                 'adc_a': adc_a,
                 'adc_b': adc_b,
-                'created_at': created_at
+                'created_at': created_at,
+                'diff': fv - adc_b
             }
         )
 
@@ -36,6 +37,7 @@ def listen(port, log_path, csv_path):
     message = b""
 
     ts_start = None
+    first_value = None
     last_byte = None
 
     flag = False
@@ -47,15 +49,12 @@ def listen(port, log_path, csv_path):
         writer = csv.DictWriter(file, fieldnames=CSV_FIELDNAMES, delimiter=';')
         writer.writeheader()
 
-    ser = serial.Serial(port, 460800, timeout=0)
+    ser = serial.Serial(port, 115200, timeout=0)
 
     while True:
         b = ser.read(1)
         if b:
             if last_byte == b'\x55':
-                if b == b'\x00':
-                    message += b'\x55'
-
                 if b == b'\x01':
                     message = b''
                     flag = True
@@ -64,12 +63,12 @@ def listen(port, log_path, csv_path):
                     ts = int(datetime.datetime.utcnow().timestamp() * 1000)
                     if ts_start is None:
                         ts_start = ts
+                        first_value = int.from_bytes(bytes(message[5:9]), byteorder='big')
 
-                    write_log(ts=ts, message=message, ts_start=ts_start, csv_path=csv_path)
+                    write_log(ts=ts, message=message, ts_start=ts_start, csv_path=csv_path, fv=first_value)
                     message = b''
 
             else:
-                if b != '\x55':
-                    message += b
+                message += b
 
             last_byte = b
