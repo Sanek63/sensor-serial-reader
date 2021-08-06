@@ -7,10 +7,10 @@ from logger import get_logger
 from csv import DictWriter
 
 
-CSV_FIELDNAMES = ['cmd', 'adc_a', 'adc_b', 'created_at', 'diff']
+CSV_FIELDNAMES = ['cmd', 'adc_a', 'adc_b', 'ts']
 
 
-def write_log(ts, message, csv_path, ts_start, fv):
+def write_log(ts, message, csv_path, ts_start):
     message.replace(b'\x55\x00', b'\x55')
     cmd = int.from_bytes(bytes(message[:1]), byteorder='big')
     adc_a = int.from_bytes(bytes(message[1:5]), byteorder='big')
@@ -27,8 +27,7 @@ def write_log(ts, message, csv_path, ts_start, fv):
                 'cmd': cmd,
                 'adc_a': adc_a,
                 'adc_b': adc_b,
-                'created_at': created_at,
-                'diff': fv - adc_b
+                'ts': created_at
             }
         )
 
@@ -65,7 +64,7 @@ def listen(port, log_path, csv_path):
                         ts_start = ts
                         first_value = int.from_bytes(bytes(message[5:9]), byteorder='big')
 
-                    write_log(ts=ts, message=message, ts_start=ts_start, csv_path=csv_path, fv=first_value)
+                    write_log(ts=ts, message=message, ts_start=ts_start, csv_path=csv_path)
                     message = b''
 
             else:

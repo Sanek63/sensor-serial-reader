@@ -16,7 +16,7 @@ if __name__ == '__main__':
         data = input()
         with open(usb1_csv, 'a+') as csv_file:
             csv_writer = DictWriter(csv_file, CSV_FIELDNAMES, delimiter=';')
-            csv_writer.writerow({'cmd': '', 'adc_a': '', 'adc_b': '', 'ts': '', 'created_at': ''})
+            csv_writer.writerow({'cmd': '', 'adc_a': '', 'adc_b': '', 'ts': ''})
         with open(usb2_csv, 'a+') as csv_file:
             csv_writer = DictWriter(csv_file, CSV_FIELDNAMES, delimiter=';')
-            csv_writer.writerow({'cmd': '', 'adc_a': '', 'adc_b': '', 'ts': '', 'created_at': ''})
+            csv_writer.writerow({'cmd': '', 'adc_a': '', 'adc_b': '', 'ts': ''})
